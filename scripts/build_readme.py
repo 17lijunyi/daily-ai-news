@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""扫描 YYYY/MM/YYYY-MM-DD/{morning,afternoon}.md，重新生成 README.md。
+"""扫描 YYYY/MM/YYYY-MM-DD/morning.md（每日一次更新），重新生成 README.md。
 
 用法（在仓库根目录或任意位置）：python3 scripts/build_readme.py
 README 完全由本脚本生成，需要修改简介/说明请改下方模板。
@@ -11,7 +11,7 @@ from urllib.parse import quote
 
 REPO = "17lijunyi/daily-ai-news"
 ROOT = Path(__file__).resolve().parent.parent
-SLOTS = [("morning", "上午"), ("afternoon", "下午")]
+SLOTS = [("morning", "当日新闻")]
 WEEKDAYS = "一二三四五六日"
 ITEM_RE = re.compile(r"^##\s+\d+\.", re.M)
 
@@ -50,13 +50,14 @@ def build() -> str:
     out.append('<div align="center">\n')
     out.append("# 📰 每日 AI 事件")
     out.append("")
-    out.append("**每天两次，精选 AI 圈最值得关注的新闻：模型、产品、融资、政策与研究，一网打尽。**")
+    out.append("**每天 10:00，精选 5 条 AI 圈最值得关注的新闻：模型、产品、融资、政策与研究，一网打尽。**")
     out.append("")
     last_commit = (f"![最近更新](https://img.shields.io/github/last-commit/{REPO}"
                    f"?style=flat-square&label={quote('最近更新')})")
     out.append(" ".join([
         last_commit,
-        badge("更新频率", "每日两次", "brightgreen"),
+        badge("更新频率", "每日一次", "brightgreen"),
+        badge("更新时间", "每天 10:00", "teal"),
         badge("已收录", f"{len(dates)} 天 · {total_items} 条", "blue"),
         badge("语言", "简体中文", "orange"),
     ]))
@@ -64,13 +65,13 @@ def build() -> str:
 
     if dates:
         latest = dates[0]
-        slot, label = [(s, l) for s, l in SLOTS if s in days[latest]][-1]
-        out.append(f"> 📌 **最新一期**：[{latest.isoformat()} · {label}]({days[latest][slot][0]})\n")
+        path = next(iter(days[latest].values()))[0]
+        out.append(f"> 📌 **最新一期**：[{latest.isoformat()}]({path})\n")
 
     out.append("## 📖 更新说明\n")
-    out.append("- ⏰ **更新节奏**：每天北京时间上午、下午各更新一次，每次 5 条。")
+    out.append("- ⏰ **更新节奏**：每天北京时间 10:00 更新一次，精选当日最热的 5 条 AI 新闻。")
     out.append("- 📝 **内容形式**：每条包含中文标题、2–3 句自行整理的摘要，以及原文链接；详情请以原文为准。")
-    out.append("- 📁 **目录结构**：`年/月/年-月-日/morning.md`（上午）与 `afternoon.md`（下午）。")
+    out.append("- 📁 **目录结构**：每天一个文件夹，`年/月/年-月-日/morning.md`。")
     out.append("")
 
     out.append("## 🗂️ 目录\n")
@@ -82,17 +83,15 @@ def build() -> str:
         opened = " open" if i == 0 else ""
         out.append(f"<details{opened}>")
         out.append(f"<summary><b>{ym[0]} 年 {ym[1]} 月</b>（{len(ds)} 天 · {n_items} 条）</summary>\n")
-        out.append("| 日期 | 上午 | 下午 |")
-        out.append("| :--- | :---: | :---: |")
+        out.append("| 日期 | 当日新闻 |")
+        out.append("| :--- | :--- |")
         for d in ds:
-            cells = []
-            for slot, label in SLOTS:
-                if slot in days[d]:
-                    path, n = days[d][slot]
-                    cells.append(f"[{label} · {n} 条]({path})")
-                else:
-                    cells.append("—")
-            out.append(f"| {d.isoformat()}（周{WEEKDAYS[d.weekday()]}） | {cells[0]} | {cells[1]} |")
+            if "morning" in days[d]:
+                path, n = days[d]["morning"]
+                cell = f"[每日 AI 事件 · {n} 条]({path})"
+            else:
+                cell = "—"
+            out.append(f"| {d.isoformat()}（周{WEEKDAYS[d.weekday()]}） | {cell} |")
         out.append("\n</details>\n")
 
     out.append("---\n")
