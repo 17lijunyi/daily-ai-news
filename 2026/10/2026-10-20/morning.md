@@ -1,6 +1,6 @@
 # 每日 AI 事件 · 2026-10-20
 
-> 更新时间：2026-10-20 10:05（北京时间）｜收录范围：2026-10-19 ~ 2026-10-20｜摘要为自行整理，详情请以原文为准。
+> 更新时间：2026-10-20 10:56（北京时间）｜收录范围：2026-10-19 ~ 2026-10-20｜摘要为自行整理，详情请以原文为准。
 
 ## 1. 美国国土安全部公开命令：联邦文职机构全面清除 DeepSeek 产品
 
@@ -25,3 +25,9 @@ MiniMax 10 月 19 日推出新一代 Flash 模型 M3.1 Flash，此前曾以匿�
 据彭博和路透报道，英伟达支持的数据中心公司 Nscale 正与 Anthropic 洽谈又一笔约 450 亿美元的算力租用协议，对应其西弗吉尼亚 Monarch 园区的第二栋设施，约 460 兆瓦、采用英伟达 Vera Rubin 芯片，Anthropic 还拥有第三栋楼的优先权。双方 8 月已签过同等规模的合同；消息人士称谈判仍在进行、细节可能变化，而此前微软刚因供电延期退出了 Nscale 的一个英国项目。
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/) · [CNA（路透）](https://www.channelnewsasia.com/business/nvidia-backed-nscale-anthropic-in-talks-new-45-billion-ai-cloud-deal-source-says-6473376)
+
+## 5. 安全公司披露：黑客用 AI 智能体集群入侵逾百家企业网站，迪尔、SharkNinja 在列
+
+安全公司 NorForge 10 月 19 日发布报告称，一名中文黑客借助开源智能体平台 Cairn，让 AI 智能体几乎自主地完成侦察、找漏洞和植入网页后门，已尝试攻击 1200 多个网站，成功入侵 100 多家，路透社据此确认受害者包括约翰迪尔、SharkNinja 和康明斯。研究员估算每次成功入侵成本约 50 美元，任务运行在名为 claudecode_deepseek-v4.1-flash 的执行节点上；迪尔称未发现敏感信息被访问，SharkNinja 称只波及一个独立的产品支持网站。
+
+**来源**：[NorForge](https://norforge.com/blog/inside_cairn) · [The Verge](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins) · [The Next Web](https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge)
