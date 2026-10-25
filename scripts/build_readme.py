@@ -50,7 +50,7 @@ def build() -> str:
     out.append('<div align="center">\n')
     out.append("# 📰 每日 AI 事件")
     out.append("")
-    out.append("**每天 10:00，精选 5 条 AI 圈最值得关注的新闻：模型、产品、融资、政策与研究，一网打尽。**")
+    out.append("**每天 10:00，精选当日最热 AI 新闻（约 1–6 条）：模型、产品、融资、政策与研究。**")
     out.append("")
     last_commit = (f"![最近更新](https://img.shields.io/github/last-commit/{REPO}"
                    f"?style=flat-square&label={quote('最近更新')})")
@@ -69,7 +69,7 @@ def build() -> str:
         out.append(f"> 📌 **最新一期**：[{latest.isoformat()}]({path})\n")
 
     out.append("## 📖 更新说明\n")
-    out.append("- ⏰ **更新节奏**：每天北京时间 10:00 更新一次，精选当日最热的 5 条 AI 新闻。")
+    out.append("- ⏰ **更新节奏**：每天北京时间 10:00 更新一次，条数约 1–6 条（按当天热度选取）。")
     out.append("- 📝 **内容形式**：每条包含中文标题、2–3 句自行整理的摘要，以及原文链接；详情请以原文为准。")
     out.append("- 📁 **目录结构**：每天一个文件夹，`年/月/年-月-日/morning.md`。")
     out.append("")
