@@ -8,3 +8,5 @@ Jack Dorsey 旗下 Block 研究团队发布语音模型 Dessa：以人类对话�
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
 
+## 2. Grok 公布 AI 生成《奥德赛》系列首集约 7 分钟片段
+
