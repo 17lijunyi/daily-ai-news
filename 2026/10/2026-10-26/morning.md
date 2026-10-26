@@ -24,3 +24,5 @@ Apollo Global Management 首席经济学家 Torsten Slok 指出，剔除「美�
 
 成立约一年的 Flapping Airplanes 宣布由 Index 与 Lux 领投的 10 亿美元 Series A，报道估值约 60 亿美元；九个月前种子轮约 1.8 亿美元、估值约 15 亿美元。公司目标是用更少数据训练大模型，并宣称其 megakernel 框架可在同一 GPU 内核中重叠训练与推理。参投方包括 Sequoia、GV、Kleiner Perkins、Nvidia 等。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/)
+
