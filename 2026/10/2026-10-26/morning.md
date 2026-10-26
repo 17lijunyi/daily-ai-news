@@ -10,3 +10,5 @@ Jack Dorsey 旗下 Block 研究团队发布语音模型 Dessa：以人类对话�
 
 ## 2. Grok 公布 AI 生成《奥德赛》系列首集约 7 分钟片段
 
+马斯克此前宣称要用 Grok 制作「史实准确」的全长《奥德赛》影片；Grok Imagine 现与 Wonder Studios、导演 Dev Walker 合作，放出约 7 分钟内容，称作系列 Episode 1。TechCrunch 评测认为个别镜头可乱真，但整体缺乏叙事张力与人物吸引力，并对照同期诺兰实拍版《奥德赛》的票房与制作规模。
+
