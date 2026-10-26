@@ -18,3 +18,5 @@ Jack Dorsey 旗下 Block 研究团队发布语音模型 Dessa：以人类对话�
 
 Apollo Global Management 首席经济学家 Torsten Slok 指出，剔除「美股七巨头」后的 S&P 493，利润率与人均营收大致持平，看不到 AI 带来的生产率改善。他称在科技业之外，AI 对企业美国「财务回报为零」，并质疑非科技公司能否把更便宜的智能转化成更高收入与利润，强调商业判断、信任与问责等 AI 难以覆盖的因素。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+
