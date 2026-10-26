@@ -20,3 +20,5 @@ Apollo Global Management 首席经济学家 Torsten Slok 指出，剔除「美�
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 
+## 4. AI 初创 Flapping Airplanes 完成 10 亿美元 A 轮，估值约 60 亿美元
+
