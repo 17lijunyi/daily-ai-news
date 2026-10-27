@@ -8,3 +8,5 @@ OpenAI 推出 GPT-6.1 Terra，面向工作日里常见的沟通与电脑操作�
 
 **来源**：[OpenAI](https://openai.com/index/introducing-gpt-6-1-terra)
 
+## 2. Anthropic 向 SEC 公开递交 S-1，拟以「ANT」登陆纳斯达克
+
