@@ -14,3 +14,5 @@ Anthropic, PBC 于 10 月 26 日就拟议首次公开发行 A 类普通股向美
 
 **来源**：[Anthropic](https://www.anthropic.com/news/s1-sec)
 
+## 3. Meta 启动约 350 亿美元股权发行，并为 AI 扩张预留更大 ATM 计划
+
