@@ -20,3 +20,5 @@ Meta 宣布同步开展约 350 亿美元包销公开发行：约 225 亿美元 A
 
 **来源**：[Meta 投资者新闻](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx)
 
+## 4. SpaceX 与 Apollo 达成约 400 亿美元 GPU 融资租赁承诺
+
