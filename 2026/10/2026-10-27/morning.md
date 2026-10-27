@@ -18,3 +18,5 @@ Anthropic, PBC 于 10 月 26 日就拟议首次公开发行 A 类普通股向美
 
 Meta 宣布同步开展约 350 亿美元包销公开发行：约 225 亿美元 A 类普通股（配合远期出售安排）与约 125 亿美元强制可转换优先股存托凭证，用于支撑 AI 基础设施与「个人超级智能」等相关投入。公司还计划在 C 类股开始交易后启动至多约 600 亿美元的随市发行（ATM）计划，但尚未签约，时间与条款未定；2026 年资本开支指引约为 1350 亿至 1450 亿美元。
 
+**来源**：[Meta 投资者新闻](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx)
+
