@@ -4,3 +4,5 @@
 
 ## 1. OpenAI 发布 GPT-6.1 Terra：更快更便宜的电脑使用与视觉推理模型
 
+OpenAI 推出 GPT-6.1 Terra，面向工作日里常见的沟通与电脑操作任务，强调视觉理解后可直接行动。相对 GPT-5.6 Terra，标准 API 价格约降一半；在 Agents' Last Exam 等基准上，中等推理力度下分数更高、成本约为 GPT-6 Astra 的十分之一，完成任务速度也明显更快。模型已进入 ChatGPT Work、Codex 与 `gpt-6.1-terra` API。
+
