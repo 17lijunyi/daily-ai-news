@@ -12,3 +12,7 @@
 
 OpenAI 宣布扩大与甲骨文的合作，将把 Oracle 应用与数据接入 ChatGPT，并计划推出 Oracle AI Workspace，让员工在权限与审批约束下完成财务、采购等业务流程。甲骨文同步推出 AI Security Mesh、面向中小企业的 AI SMB Bundle，以及基于 Codex 的 App Composer；美国客户可通过 Oracle Marketplace 用 Universal Credits 购买 OpenAI API、Codex 与 ChatGPT Work。
 
+**来源**：[OpenAI](https://openai.com/index/oracle-apps-in-chatgpt)
+
+## 3. Google DeepMind 发布世界模型 Genie 4：实时交互并原生生成音频
+
