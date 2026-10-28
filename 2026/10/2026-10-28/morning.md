@@ -18,3 +18,7 @@ OpenAI 宣布扩大与甲骨文的合作，将把 Oracle 应用与数据接入 C
 
 DeepMind 发布 Genie 4，面向实时可交互世界模拟：可结合 Gemini 系列维持场景连贯，用自然语言改天气、镜头或角色，并同步生成环境音、音乐与互动对话。目前以研究预览向可信测试者开放，后续拟先面向 Google AI Ultra（Project Genie）及 Gemini API、AI Studio 早期合作伙伴。
 
+**来源**：[Google DeepMind](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+
+## 4. Anthropic 公布 Claude 加速药物研发早期进展，并推出 Claude Science
+
