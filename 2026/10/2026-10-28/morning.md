@@ -24,3 +24,7 @@ DeepMind 发布 Genie 4，面向实时可交互世界模拟：可结合 Gemini �
 
 Anthropic 披露与 BigHat、Bristol Myers Squibb、Divergence Labs、Enveda、Generate Biomedicines、The Column Group 等六家机构的生命科学合作，并开展自有罕见儿童肌营养不良等项目。案例包括 CAR-T 相关设计缩短约 70%、约一个月生成约 3.5 万个抗体设计、监管文档人工审阅时间下降约 89% 等；公司同时推出 Claude Science 工作台与生命科学验证计划。多数结果仍属临床前阶段。
 
+**来源**：[Anthropic](https://www.anthropic.com/research/early-progress-drug-development)
+
+## 5. 英伟达与甲骨文：OCI 将 Vera Rubin 扩至多吉瓦，Vera CPU 登陆 OCI
+
