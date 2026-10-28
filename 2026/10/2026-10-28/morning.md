@@ -30,3 +30,5 @@ Anthropic 披露与 BigHat、Bristol Myers Squibb、Divergence Labs、Enveda、G
 
 英伟达与甲骨文宣布，计划将 OCI Supercluster 中的 Vera Rubin NVL72 扩展至多吉瓦规模，以支撑前沿训练、推理与智能体负载。Vera Rubin NVL72 与 Vera CPU 已在 OCI 可用，客户可独立扩展 CPU 与 GPU；OCI 还将引入 HGX Rubin NVL8 等平台。
 
+**来源**：[NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure)
+
