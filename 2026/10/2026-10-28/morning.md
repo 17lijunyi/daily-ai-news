@@ -28,3 +28,5 @@ Anthropic 披露与 BigHat、Bristol Myers Squibb、Divergence Labs、Enveda、G
 
 ## 5. 英伟达与甲骨文：OCI 将 Vera Rubin 扩至多吉瓦，Vera CPU 登陆 OCI
 
+英伟达与甲骨文宣布，计划将 OCI Supercluster 中的 Vera Rubin NVL72 扩展至多吉瓦规模，以支撑前沿训练、推理与智能体负载。Vera Rubin NVL72 与 Vera CPU 已在 OCI 可用，客户可独立扩展 CPU 与 GPU；OCI 还将引入 HGX Rubin NVL8 等平台。
+
