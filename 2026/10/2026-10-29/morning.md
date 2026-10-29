@@ -12,3 +12,7 @@
 
 Anthropic 宣布与美国总务管理局（GSA）达成新协议，政府客户购买 Claude Enterprise、Claude for Government 与 Claude API 可获 40% 折扣，首次覆盖全部产品面，并延伸至州、地方、部落与领地政府。公司估计可为政府节省约 10 亿美元，无最低消费承诺、按用量付费；约 500 个联邦与地方机构已在使用 Claude。机构可通过 GSA Multiple Award Schedule 以 OneGov 折扣采购。
 
+**来源**：[Anthropic](https://www.anthropic.com/news/expanding-partnership-gsa)
+
+## 3. 面壁智能开源 MiniCPM-OCR：解析与可信度判别双模型
+
