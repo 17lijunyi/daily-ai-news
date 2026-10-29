@@ -16,3 +16,9 @@ Anthropic 宣布与美国总务管理局（GSA）达成新协议，政府客户�
 
 ## 3. 面壁智能开源 MiniCPM-OCR：解析与可信度判别双模型
 
+面壁智能（OpenBMB）发布并开源 MiniCPM-OCR 套件：1.3B 的 MiniCPM-OCR 1.0 面向中英文文档解析，在 Real5-OmniDocBench（93.68）与 OCRBench v2（54.7）等基准取得领先；2B 的 MiniCPM-OCR Jev 对识别结果打分，帮助标出需人工复核的区域。权重与代码采用 Apache-2.0，支持 vLLM、SGLang、llama.cpp、Ollama 及量化部署。
+
+**来源**：[GitHub · OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR)
+
+## 4. Particle 发布 Particle-1：软件工程任务约少用 45% Token
+
