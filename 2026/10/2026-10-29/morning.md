@@ -22,3 +22,7 @@ Anthropic 宣布与美国总务管理局（GSA）达成新协议，政府客户�
 
 ## 4. Particle 发布 Particle-1：软件工程任务约少用 45% Token
 
+初创公司 Particle 推出 Particle-1，在 DeepSeek V4.1 Flash 上经强化学习后训练，面向软件工程与数据工程智能体场景，称平均少用约 45% Token，任务更快结束且准确率与基座接近。官方在 Terminal-Bench、ReactBench、ADE、DeepSWE 等基准展示成本与输出 Token 下降；模型通过 Particle API 提供，首发聚焦编程领域。
+
+**来源**：[Particle Blog](https://particle.ai/blog/introducing-particle-1)
+
