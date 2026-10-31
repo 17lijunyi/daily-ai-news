@@ -6,3 +6,5 @@
 
 OpenAI 于 10 月 30 日宣布，将尊重 robots.txt 中面向基础生成式 AI 训练用途的通用偏好信号，使站点运营者可一次声明、多家参与方共同遵守，而不必再为各爬虫分别维护规则。公司称现有 crawler 控制仍会继续生效，新信号计划在未来数月落地，并会另行公布实现细节；此举呼应 IETF AI Preferences 工作组进展，OpenAI 亦鼓励其他 AI 提供商跟进。
 
+**来源**：[OpenAI](https://openai.com/index/helping-websites-express-ai-training-preferences)
+
