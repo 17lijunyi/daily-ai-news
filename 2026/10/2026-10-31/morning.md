@@ -26,3 +26,5 @@ Google Research 于 10 月 30 日称，10 月 1 日升空的 Project Suncatcher 
 
 **来源**：[加拿大总理办公室](https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai)
 
+## 5. Anthropic 扩大 AI for Science：与 20 家机构共享 Claude 额度
+
