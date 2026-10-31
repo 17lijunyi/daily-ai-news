@@ -16,3 +16,5 @@ OpenAI 于 10 月 30 日宣布，将尊重 robots.txt 中面向基础生成式 A
 
 ## 3. Google Project Suncatcher 卫星完成轨道上首次 AI 回复
 
+Google Research 于 10 月 30 日称，10 月 1 日升空的 Project Suncatcher 原型卫星已完成上电与早期机器学习测试，并在过境地面站时用机载 Gemma 4 与数据中心级 TPU 生成关于太空的俳句，完成「Hello World」里程碑。后续将评估热应力与辐射对 TPU 推理的影响，为 2027 年双星互联试验铺路；报道指卫星约可产生 1 kW 电力，单次通常只能开启一颗 TPU 约二十分钟。
+
