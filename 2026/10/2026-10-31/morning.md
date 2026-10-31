@@ -8,3 +8,5 @@ OpenAI 于 10 月 30 日宣布，将尊重 robots.txt 中面向基础生成式 A
 
 **来源**：[OpenAI](https://openai.com/index/helping-websites-express-ai-training-preferences)
 
+## 2. OpenAI 发布社区安全承诺并加强青少年 ChatGPT 防护
+
