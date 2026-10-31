@@ -30,3 +30,5 @@ Google Research 于 10 月 30 日称，10 月 1 日升空的 Project Suncatcher 
 
 Anthropic 宣布扩展 AI for Science 计划，点名与全球约 20 家科学基金会、研究机构及团队合作，向高影响力科研项目提供免费 Claude 额度。覆盖对象包括 NSF、Simons、Schmidt Sciences、Wellcome Sanger、EMBL、Imperial 等；公司亦提及与 HHMI Janelia 推进实验室仪器安全操控的 Model Hardware Standard 预览，以及支持 Allen Institute 用智能体加速开放数据分析。多所高校与天文等项目同步宣布成为合作方。
 
+**来源**：[Anthropic](https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions)
+
