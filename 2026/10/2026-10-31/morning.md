@@ -20,3 +20,5 @@ Google Research 于 10 月 30 日称，10 月 1 日升空的 Project Suncatcher 
 
 **来源**：[Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)
 
+## 4. 加拿大拟向 Cohere 注资最高约 16 亿加元，强调主权 AI
+
