@@ -14,3 +14,5 @@ OpenAI 于 10 月 30 日宣布，将尊重 robots.txt 中面向基础生成式 A
 
 **来源**：[OpenAI](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
 
+## 3. Google Project Suncatcher 卫星完成轨道上首次 AI 回复
+
