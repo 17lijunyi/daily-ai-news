@@ -30,3 +30,5 @@ DeepSeek Harness 团队 10 月 31 日发布《Super-agent 设计探索》，提�
 
 英国竞争与市场管理局（CMA）10 月 30 日宣布，依《1998 年竞争法》对 Meta 商业条款展开紧急调查，评估其是否在相关英国市场具有支配地位，以及是否通过要求出版商等内容企业接受允许 Meta 将网站内容用于自有产品（含 AI 功能）的条款而滥用该地位。案件同日列入 CMA 案件列表；Meta 据报已暂停修订条款的推广以待行业磋商。
 
+**来源**：[GOV.UK / CMA](https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms)
+
