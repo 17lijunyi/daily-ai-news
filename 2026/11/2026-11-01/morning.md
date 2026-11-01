@@ -24,3 +24,5 @@ Google AI for Developers 更新日志显示，10 月 30 日 Computer Use 工具�
 
 DeepSeek Harness 团队 10 月 31 日发布《Super-agent 设计探索》，提出面向持续在线、多任务并行的 Agent 系统：Router 承接人机交互与任务分派，多个隔离 Worker 并发执行；配合事件驱动 Trigger、Thread 订阅、云端计算与本地执行环境解耦，以及独立 Watchdog 监控。团队称内部实例已参与问题复现、代码审查等，并开源原型仓库作路线验证，非正式产品。
 
+**来源**：[IT之家](https://www.ithome.com/1/020/615.htm)
+
