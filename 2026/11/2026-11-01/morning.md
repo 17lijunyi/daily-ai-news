@@ -18,3 +18,5 @@ CNBC 10 月 31 日证实，OpenAI 正寻求在最新一轮融资中募集最高�
 
 Google AI for Developers 更新日志显示，10 月 30 日 Computer Use 工具已在 Interactions API 与 GenerateContent API 全面可用。该工具让模型基于截图理解界面，并生成点击、输入等 UI 动作，支持浏览器、移动与桌面环境；应用需在客户端执行动作，并可配置安全策略与可选的提示注入检测。文档仍建议对关键任务保持人工监督。
 
+**来源**：[Google AI for Developers](https://ai.google.dev/gemini-api/docs/changelog)
+
