@@ -8,3 +8,5 @@ Apple 中国大陆 Newsroom 10 月 31 日宣布，首批 Apple 智能功能将�
 
 **来源**：[Apple 中国大陆 Newsroom](https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/)
 
+## 2. OpenAI 据报将本轮融资目标下调至最高约 200 亿美元
+
