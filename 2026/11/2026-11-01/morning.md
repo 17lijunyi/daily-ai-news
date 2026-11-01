@@ -20,3 +20,5 @@ Google AI for Developers 更新日志显示，10 月 30 日 Computer Use 工具�
 
 **来源**：[Google AI for Developers](https://ai.google.dev/gemini-api/docs/changelog)
 
+## 4. DeepSeek 公开 Super-agent 架构：Router 与 Worker 双层设计
+
