@@ -12,3 +12,5 @@ Apple 中国大陆 Newsroom 10 月 31 日宣布，首批 Apple 智能功能将�
 
 CNBC 10 月 31 日证实，OpenAI 正寻求在最新一轮融资中募集最高约 200 亿美元，低于早前约 300 亿美元的目标；《金融时报》报道称本轮投后估值约 1.25 万亿美元。融资仍在进行、条款可能变化，阿联酋投资者与 Coatue 据报领投；部分投资者缩减了认购额度。消息正值科技股因 AI 资本开支与回报疑虑承压之际。
 
+**来源**：[CNBC](https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html)
+
