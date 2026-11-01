@@ -14,3 +14,5 @@ CNBC 10 月 31 日证实，OpenAI 正寻求在最新一轮融资中募集最高�
 
 **来源**：[CNBC](https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html)
 
+## 3. Gemini API Computer Use 工具正式 GA
+
