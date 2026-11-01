@@ -26,3 +26,5 @@ DeepSeek Harness 团队 10 月 31 日发布《Super-agent 设计探索》，提�
 
 **来源**：[IT之家](https://www.ithome.com/1/020/615.htm)
 
+## 5. 英国 CMA 就 Meta 商业条款启动竞争法调查
+
