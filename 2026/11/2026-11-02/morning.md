@@ -20,3 +20,9 @@ OpenAI 帮助中心更新说明，自 12 月起 Plus、Pro 与 Business 方案�
 
 **来源**：[IT之家](https://www.ithome.com/1/020/809.htm)
 
+## 4. Cursor 警示：市场出现恶意 Claude Code 扩展，试图植入 SSH 后门
+
+Cursor 发布安全通告称，扩展市场中曾短暂出现伪装为 Anthropic Claude Code 的恶意版本（2.1.312 / 2.1.313），可能影响最多约 5000 名用户，行为包括收集主机信息并试图建立持久化 SSH 后门。官方建议检查相关工件、运行修复脚本并升级至安全版本，同时轮换可能暴露的凭据。Anthropic 表示自身系统未被入侵，官方分发渠道未受影响。
+
+**来源**：[Cursor Blog](https://cursor.com/blog/claude-code-extension-security-notice)
+
