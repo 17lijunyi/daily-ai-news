@@ -14,3 +14,9 @@ OpenAI 帮助中心更新说明，自 12 月起 Plus、Pro 与 Business 方案�
 
 **来源**：[Aramco](https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth)
 
+## 3. 赛迪研究院：我国 AI 推理数据量首次超过训练数据量
+
+据央视新闻援引中国电子信息产业发展研究院（赛迪研究院）《新域新质创新发展十大趋势》，我国人工智能推理数据量已首次超过训练数据量，标志产业从模型训练研发转向规模化应用。报告称截至 2026 年 6 月，日均词元调用量超过 175 万亿，较 2024 年初增长逾千倍；全国已建成 500 多家卓越级智能工厂，国产算力与大模型在钢铁、汽车等 20 个行业落地超 1000 个场景。
+
+**来源**：[IT之家](https://www.ithome.com/1/020/809.htm)
+
