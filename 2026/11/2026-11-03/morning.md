@@ -24,3 +24,5 @@ OpenAI 向部分用户发邮件称，将把 ChatGPT 体验中的 Chat 与 Work �
 
 《纽约时报》在曼哈顿联邦法院起诉 Brave，指控其抓取受版权保护的新闻内容、通过 Ask Brave 分发，并向 Anthropic、Perplexity、Mistral、xAI、Cohere 等公司出售索引访问；诉状还指控其付费墙绕过功能与广告拦截做法。同日，《纽约每日新闻》《芝加哥论坛报》与《奥兰多哨兵报》提起类似诉讼。时报寻求禁令与损害赔偿。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/)
+
