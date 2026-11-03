@@ -32,3 +32,5 @@ Marvell 宣布以全股票交易收购 Lumentum，按公告隐含企业价值约
 
 **来源**：[CNBC](https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html)
 
+## 6. 美团发布 LongCat-2.5：1.6 万亿参数，全程国产算力训练
+
