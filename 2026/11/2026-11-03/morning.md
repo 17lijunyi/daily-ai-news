@@ -18,3 +18,5 @@ Anthropic 向 SEC 递交修订版 S-1，披露截至 9 月 30 日的三个月营
 
 OpenAI 向部分用户发邮件称，将把 ChatGPT 体验中的 Chat 与 Work 标签合并为同一工作区，便于从想法探索一路做到建站、演示文稿或网页操作，并保留人工审阅与引导；Codex 仍作为桌面端独立体验。合并后 ChatGPT 与 Codex 将共用同一用量额度池，公司称多数用户影响有限，但高强度使用场景下可能更常遇到额度重置等待。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)
+
