@@ -20,3 +20,5 @@ OpenAI 向部分用户发邮件称，将把 ChatGPT 体验中的 Chat 与 Work �
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)
 
+## 4. 《纽约时报》等起诉 Brave：指控抓取内容并售予多家 AI 公司
+
