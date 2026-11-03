@@ -26,3 +26,5 @@ OpenAI 向部分用户发邮件称，将把 ChatGPT 体验中的 Chat 与 Work �
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/)
 
+## 5. Marvell 全股票收购光通信厂商 Lumentum，企业价值约 1150 亿美元
+
