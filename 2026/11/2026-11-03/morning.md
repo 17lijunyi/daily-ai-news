@@ -30,3 +30,5 @@ OpenAI 向部分用户发邮件称，将把 ChatGPT 体验中的 Chat 与 Work �
 
 Marvell 宣布以全股票交易收购 Lumentum，按公告隐含企业价值约 1150 亿美元；Lumentum 股东每持 1 股可换 4.5 股 Marvell，交易预计 2028 年上半年完成。双方称合并后将整合电互连与光互连能力，对准 AI 数据中心高速互联需求；公告后两家股价均大幅下跌。
 
+**来源**：[CNBC](https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html)
+
