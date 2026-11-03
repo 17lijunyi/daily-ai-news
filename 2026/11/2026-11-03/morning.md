@@ -8,3 +8,5 @@ Anthropic 向 SEC 递交修订版 S-1，披露截至 9 月 30 日的三个月营
 
 **来源**：[CNBC](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html)
 
+## 2. Anthropic、OpenAI、Google 与 Microsoft 将支持统一 robots.txt 训练偏好信号
+
