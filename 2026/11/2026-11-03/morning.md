@@ -14,3 +14,5 @@ Anthropic 向 SEC 递交修订版 S-1，披露截至 9 月 30 日的三个月营
 
 **来源**：[Nieman Lab](https://www.niemanlab.org/2026/11/anthropic-openai-google-and-microsoft-will-make-it-easier-for-publishers-to-opt-out-of-being-scraped/)
 
+## 3. OpenAI 合并 ChatGPT 桌面端 Chat 与 Work 标签页
+
