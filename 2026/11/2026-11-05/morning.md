@@ -12,3 +12,5 @@ OpenAI 于 11 月 4 日宣布将收购开发工具公司 Pierre Computer Company
 
 OpenAI 随 Images 2.6 向 ChatGPT 与 Codex 用户推出原生 GIF 生成与帧级编辑，并可调节播放速度。公司称跨 ChatGPT 与 API 的周图像生成量已超 40 亿次；API 端同步推出 GPT-Image-2.6 Flare 与 Sunburst 两个版本，分别侧重速度与画质一致性。
 
+**来源**：[The Verge](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)
+
