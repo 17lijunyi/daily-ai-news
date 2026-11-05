@@ -26,3 +26,5 @@ OpenAI 披露其自主漏洞发现、验证与补丁生成管线：在受控环�
 
 **来源**：[腾讯](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
 
+## 5. 京东启动“物理 AI 加速计划”，未来五年拟采购 300 万台机器人
+
