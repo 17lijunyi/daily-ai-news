@@ -14,3 +14,5 @@ OpenAI 随 Images 2.6 向 ChatGPT 与 Codex 用户推出原生 GIF 生成与帧�
 
 **来源**：[The Verge](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)
 
+## 3. OpenAI 自动化漏洞管线：一次跑出 948 个 Linux 本地提权补丁
+
