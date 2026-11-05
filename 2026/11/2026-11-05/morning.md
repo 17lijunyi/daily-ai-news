@@ -24,3 +24,5 @@ OpenAI 披露其自主漏洞发现、验证与补丁生成管线：在受控环�
 
 腾讯混元于 11 月 4 日发布最新一代大语言模型 Hy4。相对 preview，正式版扩大预训练与后训练规模，首次引入视觉理解，并强化指令遵循、长文理解与长程智能体；还可结合图形界面与命令行操作电脑。Hy4 已上线腾讯云 TokenHub、元宝、CodeBuddy 等产品，API 价格与 preview 持平，权重与系统卡片拟近期开源。
 
+**来源**：[腾讯](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
+
