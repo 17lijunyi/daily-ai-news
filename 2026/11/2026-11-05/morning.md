@@ -18,3 +18,7 @@ OpenAI 随 Images 2.6 向 ChatGPT 与 Codex 用户推出原生 GIF 生成与帧�
 
 OpenAI 披露其自主漏洞发现、验证与补丁生成管线：在受控环境中分析逾 2300 个候选，动态复现 1724 个漏洞，并为常用发行版生成 948 个可工作的本地提权（LPE）利用与对应补丁，整次运行 API 成本约 121 万美元。公司正按内核社区建议优先上报关键漏洞，并与 Patch the Planet 伙伴协作。
 
+**来源**：[OpenAI](https://openai.com/index/a-thousand-fewer-paths-to-root)
+
+## 4. 腾讯混元发布 Hy4 正式版，首次支持视觉理解与电脑操作
+
