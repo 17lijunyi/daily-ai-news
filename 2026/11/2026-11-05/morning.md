@@ -6,3 +6,5 @@
 
 OpenAI 于 11 月 4 日宣布将收购开发工具公司 Pierre Computer Company。Pierre 的 Trees、Diffs 等开源库已用于 Codex 的文件浏览与变更审阅，其 Code Storage 服务可按 Git 方式存代码与历史。交易尚需监管等交割条件，交割前双方仍独立运营；开源项目将继续开源，Code Storage 功能拟逐步并入 Codex。
 
+**来源**：[OpenAI](https://openai.com/index/openai-to-acquire-pierre/)
+
