@@ -8,3 +8,5 @@ OpenAI 于 11 月 4 日宣布将收购开发工具公司 Pierre Computer Company
 
 **来源**：[OpenAI](https://openai.com/index/openai-to-acquire-pierre/)
 
+## 2. ChatGPT 上线 Images 2.6：可生成 GIF，图像生成提速
+
