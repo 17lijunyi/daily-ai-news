@@ -30,3 +30,5 @@ Anthropic 为 Claude Enterprise 推出安全中心，并将推理钩子（提示
 
 谷歌发布并全面开放 Gemini Omni 1.2 Flash，支持原生生成 3–15 秒带音频视频、多轮对话式剪辑与更强参考一致性；720p 定价约每秒 0.07 美元，较 1.1 版约降 30%，可在 Gemini API、Gemini for business 与 Google Vids 等渠道使用。
 
+**来源**：[Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+
