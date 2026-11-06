@@ -12,3 +12,7 @@ OpenAI 推出专为授权漏洞研究设计的 GPT-6 Cyber，在 ExploitGym 上�
 
 Meta 收购多代理编程平台 Conductor，可并行调度 Claude Code、Codex、Cursor 等编码智能体。官方未披露交易金额；Conductor Cloud 将于 11 月 20 日关停，本地版将继续维护至 2027 年初，并预告明年推出新界面。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/)
+
+## 3. Anthropic 为企业版 Claude 上线推理钩子与安全中心
+
