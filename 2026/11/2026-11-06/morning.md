@@ -24,3 +24,7 @@ Anthropic 为 Claude Enterprise 推出安全中心，并将推理钩子（提示
 
 在中期选举后多地反对数据中心扩张的背景下，OpenAI 宣布新社区承诺：与公职人员原则上不再使用保密协议，仅保留安全、商业秘密等窄范围保护；并承诺支付用电与配套基础设施全额成本、公开岗位与招聘情况，自有“算力园区”将签订反映地方优先事项的本地协议。
 
+**来源**：[The Verge](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)
+
+## 5. 谷歌 Gemini Omni 1.2 Flash 全面可用：最长 15 秒视频并降价约 30%
+
