@@ -16,3 +16,5 @@ Meta 收购多代理编程平台 Conductor，可并行调度 Claude Code、Codex
 
 ## 3. Anthropic 为企业版 Claude 上线推理钩子与安全中心
 
+Anthropic 为 Claude Enterprise 推出安全中心，并将推理钩子（提示词钩子与工具调用前钩子）正式开放，可把提示与工具调用转给企业自有 DLP/安全服务做允许或拒绝裁决。还增加集中管理控制台、Admin API 强制登出、自助 IP 白名单，以及在本机虚拟机内运行 EDR 传感器等能力。
+
