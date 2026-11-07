@@ -22,3 +22,5 @@ Anthropic 宣布在美国面向 Pro、Max、Ultra 订阅用户推出 Personal Fi
 
 ## 4. Perplexity 推出 Teammates：面向持续工作的常驻智能体
 
+Perplexity 发布 Teammates，定位为可承接复杂、持续性工作的智能体：可并行处理多项任务、监控已连接工具中的变化，并在既有 Computer 项目与权限下协作。用户可随时查看或改派其工作；首发面向个人 Max 订阅用户的网页端，移动端后续跟进。此举将搜索助手进一步推向「可长期跟进任务」的工作流产品。
+
