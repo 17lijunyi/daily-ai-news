@@ -36,3 +36,5 @@ Physical Superintelligence（PSI）称其内部研究系统在非公开 Anthropi
 
 据彭博社援引知情人士消息、并由 TechCrunch 等转述，OpenAI 已在本轮融资中完成约 110 亿美元资金交割，对应估值约 1.25 万亿美元；整轮尚未完全关闭，未来数周或扩至约 200 亿美元。这显著低于此前约 300 亿美元的融资目标传闻。同日市场亦关注 Anthropic IPO 潜在买家给出的估值讨论下移。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
+
