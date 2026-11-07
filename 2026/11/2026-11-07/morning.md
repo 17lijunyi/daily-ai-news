@@ -8,3 +8,5 @@ Anthropic 宣布在美国面向 Pro、Max、Ultra 订阅用户推出 Personal Fi
 
 **来源**：[Anthropic / Claude](https://claude.com/resources/articles/introducing-personal-finance-in-claude)
 
+## 2. Thinking Machines 发布 Inkling 2 Small：594B MoE，权重拟 Apache-2.0 开放
+
