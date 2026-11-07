@@ -18,3 +18,7 @@ Anthropic 宣布在美国面向 Pro、Max、Ultra 订阅用户推出 Personal Fi
 
 独立评估机构 METR 发布对 Anthropic 的高权限评估报告，覆盖约 2026 年 8 月 12 日至 10 月 29 日内部数据。团队主观判断：截至 2026 年 10 月，Anthropic 在明确任务上的能力提升速度约为 2024 年 3 月至 2025 年 10 月阶段的两倍（不确定区间约 1.3–3 倍），并认为大部分加速来自 AI 辅助研发而非训练算力加码。报告同时指出大量关键证据被 Anthropic 以保密为由涂黑，公众难以独立核验。
 
+**来源**：[METR](https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/)
+
+## 4. Perplexity 推出 Teammates：面向持续工作的常驻智能体
+
