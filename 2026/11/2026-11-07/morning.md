@@ -28,3 +28,5 @@ Perplexity 发布 Teammates，定位为可承接复杂、持续性工作的智�
 
 ## 5. PSI：未公开 Anthropic 模型协助证明 Aaronson–Ambainis 猜想
 
+Physical Superintelligence（PSI）称其内部研究系统在非公开 Anthropic 模型实例上运行，于约第三天得到 2008 年以来开放的 Aaronson–Ambainis 猜想证明，并经 Lean 形式化验证接受，随后又两次改进结果。该猜想关系到量子计算能否在「随机输入」上相对经典计算获得指数级加速；证明成立意味着在一般情形下这种指数级加速不成立。斯坦福相关研究者称结果意义重大，但更广泛的同行评议仍在进行。
+
