@@ -12,3 +12,5 @@ Anthropic 宣布在美国面向 Pro、Max、Ultra 订阅用户推出 Personal Fi
 
 前 OpenAI CTO Mira Murati 创办的 Thinking Machines Lab 发布第二代首款模型 Inkling 2 Small：总参数约 5940 亿、每次激活约 170 亿的稀疏 MoE，支持文本与图像输入及最长约百万 token 上下文。模型目前仅通过 Tinker 平台提供推理与微调，权重暂未开放；实验室称完成外部安全测试与红队后计划以 Apache-2.0 发布权重。官方称其在 Artificial Analysis Intelligence Index 上得分 31，较上代明显提升。
 
+**来源**：[Thinking Machines Lab](https://thinkingmachines.ai/news/inkling-2-small/)
+
