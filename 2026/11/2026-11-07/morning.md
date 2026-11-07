@@ -26,3 +26,5 @@ Perplexity 发布 Teammates，定位为可承接复杂、持续性工作的智�
 
 **来源**：[Perplexity](https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work)
 
+## 5. PSI：未公开 Anthropic 模型协助证明 Aaronson–Ambainis 猜想
+
