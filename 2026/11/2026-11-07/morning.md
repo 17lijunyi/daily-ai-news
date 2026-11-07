@@ -32,3 +32,5 @@ Physical Superintelligence（PSI）称其内部研究系统在非公开 Anthropi
 
 **来源**：[Physical Superintelligence](https://psi.inc/research/aaronson-ambainis/)
 
+## 6. OpenAI 据报完成本轮约 110 亿美元交割，估值约 1.25 万亿美元
+
