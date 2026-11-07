@@ -14,3 +14,5 @@ Anthropic 宣布在美国面向 Pro、Max、Ultra 订阅用户推出 Personal Fi
 
 **来源**：[Thinking Machines Lab](https://thinkingmachines.ai/news/inkling-2-small/)
 
+## 3. METR：Anthropic 能力进步速度约翻倍，主因或为 AI 辅助研发
+
