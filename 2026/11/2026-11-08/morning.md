@@ -22,3 +22,7 @@ OpenAI 与专注酶设计的生物技术公司 Ligo 合作推出 BioBasicsBench�
 
 ## 4. 百度开源文心 ERNIE 5.5 Flash Base：2800 亿参数 MoE 基座模型
 
+百度发布并开源 ERNIE 5.5 Flash Base，这是一款稀疏混合专家基座模型，总参数 2800 亿、每个 token 激活 140 亿，从零开始用 33.5 万亿 token 完成预训练，预训练上下文最长 128K，微调与推理支持最长 100 万 token。官方明确这是预训练结束、尚未经过中期训练或后训练的权重，供开发者自行做领域适配、指令微调或强化学习研究；权重以 FP8 与 BF16 格式发布在 Hugging Face，采用文心 5.5 Flash Base 模型许可协议。同尺寸对比中，官方给出的评测显示其在推理、代码和考试类基准上整体表现较强。
+
+**来源**：[百度文心](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+
