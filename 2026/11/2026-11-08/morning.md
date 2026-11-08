@@ -28,3 +28,7 @@ OpenAI 与专注酶设计的生物技术公司 Ligo 合作推出 BioBasicsBench�
 
 ## 5. 微软：攻击者用智能体框架搜寻 GitHub 泄露密钥，五分钟内进入云环境
 
+微软威胁情报团队报告，自 2026 年 8 月起观察到攻击者使用名为 ARTEX 的攻击性智能体框架，对公开 GitHub 仓库发起大量检索，寻找凭据、应用密钥以及与 AI 推理相关的 API 密钥。智能体不仅能更快扫到密钥，还会分析结果并自动开展后续攻击：在至少一个案例中，智能体从在 GitHub 上搜寻密钥到从 Azure Key Vault 窃取数据只用了约五分钟。微软还看到智能体在获取被盗 OAuth 应用的令牌后枚举云资源、继续在 Azure DevOps 中寻找密钥，并提醒只要密钥未被轮换就仍可被利用，已暴露的密钥必须立即轮换。
+
+**来源**：[Microsoft Security](https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/)
+
