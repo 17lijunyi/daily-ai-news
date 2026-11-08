@@ -12,3 +12,5 @@ OpenAI 宣布与 Hacktron 达成合作，由双方工程师与安全研究员共
 
 OpenAI 与专注酶设计的生物技术公司 Ligo 合作推出 BioBasicsBench，用 100 项来自真实实验的常规湿实验任务，考察 AI 智能体能否解读凝胶、菌落平板、显微成像和仪器读数等原始数据，发现错误，并在证据不足时拒绝下结论。在允许更多推理的 xhigh 设置下，GPT-6 Astra 平均拿到 66.7% 的可得分数，高于 GPT-5.6 Sol 的 43.8%；评测覆盖 7 款模型、共 18500 次作答。官方强调分数提高并不等于模型已能在实验室里做出可靠判断，图像解读、对照检查和实验上下文仍有明显短板。
 
+**来源**：[OpenAI](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
+
