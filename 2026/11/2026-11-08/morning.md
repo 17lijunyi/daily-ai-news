@@ -32,3 +32,7 @@ OpenAI 与专注酶设计的生物技术公司 Ligo 合作推出 BioBasicsBench�
 
 **来源**：[Microsoft Security](https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/)
 
+## 6. 美国司法部成立「超级智能」特遣队，统筹应对 AI 滥用
+
+美国司法部宣布成立 Super Intelligence 特遣队（DOJ-SITF），由助理司法部长 Stanley Woodward 与助理副司法部长 Stephen Weiss 牵头，统筹应对外国国家及国家支持行为体、跨国犯罪组织以及个人或企业利用超级智能实施欺诈等违法活动。司法部长 Todd Blanche 表示，该机制将与白宫超级智能力量负责人 Jay Clayton 协作，继续识别并起诉以超级智能恶意针对美国纳税人、关键基础设施或国家安全的行为人。官方同时强调要推动企业建立内部控制，使相关技术按预期运行，并加强风险报告。
+
