@@ -18,3 +18,7 @@ OpenAI 与专注酶设计的生物技术公司 Ligo 合作推出 BioBasicsBench�
 
 谷歌全球基础设施与能源副总裁 Steve Walter 撰文宣布，将在怀俄明州拉勒米县建设该公司在该州的首座数据中心，长期投资额为 170 亿美元，合作方包括 Tallgrass Energy、Black Hills Energy、美国电力公司 AEP 以及 Related Digital。项目与 AEP 签约建设约 702 兆瓦、配备碳捕集与封存的燃料电池发电设施，电池由 Bloom Energy 在美国制造，捕集的碳计划封存在 Tallgrass 附近的东怀俄明封存枢纽；数据中心将采用风冷，以降低对当地水资源的占用。谷歌称将支付所使用的全部电力费用，并承担由其增长直接带动的基础设施建设。
 
+**来源**：[Google](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/)
+
+## 4. 百度开源文心 ERNIE 5.5 Flash Base：2800 亿参数 MoE 基座模型
+
