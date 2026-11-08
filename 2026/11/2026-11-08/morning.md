@@ -26,3 +26,5 @@ OpenAI 与专注酶设计的生物技术公司 Ligo 合作推出 BioBasicsBench�
 
 **来源**：[百度文心](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
 
+## 5. 微软：攻击者用智能体框架搜寻 GitHub 泄露密钥，五分钟内进入云环境
+
