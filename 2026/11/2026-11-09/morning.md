@@ -8,3 +8,7 @@
 
 **来源**：[英伟达新闻室](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 
+## 2. 苹果加速 Siri 智能体化：先控自家 App，再接第三方与持续任务
+
+据彭博社 Mark Gurman 披露、The Verge 报道，CEO John Ternus 正督促软件负责人 Craig Federighi 加快 Siri 路线图，目标对标 OpenAI Dots、Meta Muse 等更强智能体。预计 iOS 27.3 将加强对照片、Safari 等第一方 App 的细粒度操控；第三方 App 联动（如点餐、订座）或到明年春季；更进一步的持续目标追踪与自主推进，Gurman 认为最早明年就可能落地。
+
