@@ -16,3 +16,7 @@
 
 ## 3. Bernstein：OpenAI 算力承诺折算至 2030 年基建支出约 6140 亿美元
 
+Bernstein 分析师 Mark Moerdler 测算，将 OpenAI 已披露算力协议按投运节奏折算后，至 2030 年累计基础设施支出约 6140 亿美元，低于市场常引用的约 7500 亿美元；峰值或推迟至 2031 年约 1840 亿美元。研报强调「全部合同按时交付」并不现实，延期与取消会继续压低实际支出；拆分看，甲骨文约 3000 亿、微软 Azure 约 2500 亿、亚马逊约 1380 亿美元等承诺多为分期上限而非即期现金压力。
+
+**来源**：[Investing.com](https://www.investing.com/news/stock-market-news/what-are-the-ai-lab-compute-commitments-5010113)
+
