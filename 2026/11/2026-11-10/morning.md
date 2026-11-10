@@ -8,3 +8,5 @@ Anthropic 于 11 月 9 日发布 Claude Fable 5.2 与 Mythos 5.2，二者为同�
 
 **来源**：[Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 
+## 2. Meta 发布轻量模型 Muse Ember，面向智能体高频任务
+
