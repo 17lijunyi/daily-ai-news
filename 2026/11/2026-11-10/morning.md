@@ -26,3 +26,5 @@ Meta 11 月 9 日推出其最小、最高效的模型 Muse Ember（muse-ember-1.
 
 **来源**：[字节跳动 Seed](https://seed.bytedance.com/zh/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5)
 
+## 5. 英伟达在 CoRL 发布机器人基础模型 GR00T 2 与 Isaac Lab 3.0
+
