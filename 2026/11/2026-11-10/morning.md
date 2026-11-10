@@ -32,3 +32,5 @@ Meta 11 月 9 日推出其最小、最高效的模型 Muse Ember（muse-ember-1.
 
 **来源**：[NVIDIA 博客](https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/)
 
+## 6. 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型
+
