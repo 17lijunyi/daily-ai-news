@@ -18,3 +18,7 @@ Meta 11 月 9 日推出其最小、最高效的模型 Muse Ember（muse-ember-1.
 
 谷歌 11 月 9 日宣布在第八代 TPU 产品线中再推两套系统：TPU 8tx 与 TPU 8i Max，至此同一代已推出四套系统。8tx 基于与 8t 相同的芯片并搭配 AMD 主机处理器，在硬件层隔离推理中的敏感数据与模型权重，面向受监管企业与政府场景；8i Max 将两枚 TPU 8i 封装在同一封装上，官方称算力、片上 SRAM 与高带宽内存带宽均较 8i 翻倍，用于处理代码库或长视频等大上下文任务。
 
+**来源**：[Google 官方博客](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
+
+## 4. 字节跳动发布图像模型 Seedream 5.5，支持百轮编辑与原生透明图
+
