@@ -30,3 +30,5 @@ Meta 11 月 9 日推出其最小、最高效的模型 Muse Ember（muse-ember-1.
 
 英伟达在奥斯汀举行的机器人学习大会 CoRL 上公布开源世界动作模型 GR00T 2，该模型基于 NVIDIA Cosmos，并使用包括约 10 万小时开源第一人称人体数据在内的机器人与人类数据训练。官方称，在评估的 50 项任务中，模型在无任务示范时有 40 项至少成功一次；每项仅提供一次示范后平均成功率为 71%，五次示范后升至 95%。同期发布的还有仿真框架 Isaac Lab 3.0，以及面向工业操作的开放评测 DexBench 与 VABAR。
 
+**来源**：[NVIDIA 博客](https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/)
+
