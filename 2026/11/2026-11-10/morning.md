@@ -10,3 +10,5 @@ Anthropic 于 11 月 9 日发布 Claude Fable 5.2 与 Mythos 5.2，二者为同�
 
 ## 2. Meta 发布轻量模型 Muse Ember，面向智能体高频任务
 
+Meta 11 月 9 日推出其最小、最高效的模型 Muse Ember（muse-ember-1.0），面向工具调用、编码子任务、路由、信息抽取和长文档解析等智能体日常重复工作。官方定价为每百万输入 token 0.10 美元、每百万输出 token 0.50 美元，上下文窗口为 100 万 token，最大输出约 51.2 万 token，已在 Meta Model API 与 Muse Code 上线。
+
