@@ -34,3 +34,5 @@ Meta 11 月 9 日推出其最小、最高效的模型 Muse Ember（muse-ember-1.
 
 ## 6. 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型
 
+Adobe 与华特迪士尼公司 11 月 9 日在 Adobe MAX 上宣布达成多年战略联盟，Adobe 成为迪士尼的官方 AI 创新合作伙伴，将提前开放 Firefly、Firefly Foundry、Premiere 与 Photoshop 等工具，并提供工程与研究支持。双方计划用 Firefly Foundry 开发面向迪士尼作品的定制生成模型，把角色特征、场景与视觉风格纳入训练；迪士尼幻想工程研发团队已在主题乐园开发中使用相关工具，例如将手绘草图转为完整的二维概念图，合作还将覆盖华特迪士尼影业 StudioLAB 与 ESPN Edge。
+
