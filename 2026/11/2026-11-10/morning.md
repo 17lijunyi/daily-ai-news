@@ -24,3 +24,5 @@ Meta 11 月 9 日推出其最小、最高效的模型 Muse Ember（muse-ember-1.
 
 字节跳动 Seed 团队 11 月 9 日发布新一代图像模型 Seedream 5.5，重点提升多轮编辑稳定性，称非编辑区域可做到像素级保持，并支持围绕同一作品连续修改多达 100 轮。新模型可直接生成带 Alpha 通道的 RGBA 透明或半透明素材，同时改善光照、材质与文字渲染；目前正陆续在即梦、豆包、豆包工作与火山方舟上线，后续还将推出 Pro 版本。
 
+**来源**：[字节跳动 Seed](https://seed.bytedance.com/zh/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5)
+
