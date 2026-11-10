@@ -14,3 +14,5 @@ Meta 11 月 9 日推出其最小、最高效的模型 Muse Ember（muse-ember-1.
 
 **来源**：[Meta AI 研究博客](https://research.meta.ai/blog/muse-ember)
 
+## 3. 谷歌扩充第八代 TPU：新增机密推理 8tx 与长上下文 8i Max
+
