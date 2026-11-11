@@ -28,3 +28,5 @@ Google DeepMind 11 月 10 日推出迄今最强视觉-语言-动作模型 Gemini
 
 ## 5. Anthropic 上线 Claude Whiteboards 与 Sheets 公测，Claude Data 正式可用
 
+Anthropic 宣布在 Claude 内推出 Claude Whiteboards 与 Claude Sheets 公测，并将原 Claude Dashboards 更名为 Claude Data 后正式开放，三者均面向付费方案，可在网页、桌面和移动端使用。白板支持与团队及 Claude 同屏整理计划并导出至 Lucid、Miro 等工具；表格可按提示生成含多工作表、公式和下拉菜单的表格，并支持导出为 .xlsx 或 CSV。Claude Data 新增认证查询、数据故事和实时分享等能力，可连接 Redshift、BigQuery、ClickHouse 等；Team 方案默认开启全部功能，Enterprise 方案中白板与表格默认关闭，Claude Data 将于 11 月 19 日默认开启。
+
