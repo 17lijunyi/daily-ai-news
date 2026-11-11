@@ -10,3 +10,5 @@
 
 ## 2. OpenAI 推出 ChatGPT「企业入驻」公测与 Business Agent
 
+OpenAI 11 月 10 日宣布 Businesses in ChatGPT 进入公测：企业可通过 Business Hub 认领并维护商家资料、上传含价格与库存的产品数据源，并查看提及次数、网站点击和发现主题等汇总互动数据。官方称 ChatGPT 每周用户约 12 亿，且不会向企业分享用户对话或与 Business Agent 的聊天记录，洞察仅在样本量达到门槛后可见。美国符合条件的电商与在线服务企业还可发布独立标注的 Business Agent，并可将该智能体设为 ChatGPT 广告的赞助落地页；Shopify 商家可通过 Business Hub 或后台连接店铺以简化验证。
+
