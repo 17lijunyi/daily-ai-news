@@ -16,3 +16,5 @@ OpenAI 11 月 10 日宣布 Businesses in ChatGPT 进入公测：企业可通过 
 
 ## 3. DeepMind 发布 AlphaProof Code，形式化验证 Signal 协议实现
 
+Google DeepMind 11 月 10 日发布智能体框架 AlphaProof Code，并宣布在专家审定规格后，由 Gemini Carbon 驱动的智能体为 Signal 协议参考实现写出逾 600 万行经 Lean 核验的证明，覆盖已编译、实际运行的代码层安全性质。官方称这是首次以该深度对广泛部署的密码协议实现完成形式化验证，全程约四周；研究团队还将两处此前已修复的真实漏洞回放到隔离版本中，系统均给出了该版本不安全的机器可检验证明。相关形式化产物已开源供社区使用。
+
