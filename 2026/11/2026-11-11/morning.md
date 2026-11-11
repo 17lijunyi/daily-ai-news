@@ -14,3 +14,5 @@ OpenAI 11 月 10 日宣布 Businesses in ChatGPT 进入公测：企业可通过 
 
 **来源**：[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)
 
+## 3. DeepMind 发布 AlphaProof Code，形式化验证 Signal 协议实现
+
