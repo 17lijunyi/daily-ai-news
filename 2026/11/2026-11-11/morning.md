@@ -22,3 +22,5 @@ Google DeepMind 11 月 10 日发布智能体框架 AlphaProof Code，并宣布�
 
 ## 4. 谷歌发布 Gemini Robotics 2.5，奔驰产线试点成功率约 96%
 
+Google DeepMind 11 月 10 日推出迄今最强视觉-语言-动作模型 Gemini Robotics 2.5，称其在任务广度、成功率与速度上均有提升，并正在向机器人合作伙伴滚动开放。公司与 Apptronik 合作，在梅赛德斯-奔驰匈牙利凯奇凯梅特与德国辛德尔芬根在产产线上，用 Apollo 2 人形机器人进行汽车零件分拣（kitting）试运行，官方称成功率约 96%。同步开源面向机器人越狱测试的基准 ASIMOV-Jailbreak。
+
