@@ -36,3 +36,5 @@ Anthropic 宣布在 Claude 内推出 Claude Whiteboards 与 Claude Sheets 公测
 
 Anthropic 于 11 月 10 日正式启动拟议首次公开发行 Class A 普通股的路演。拟发行 8.25 亿股，其中公司发行 801,351,354 股、现有股东出售 23,648,646 股（公司不获该部分所得），并拟授予承销商 30 天内最多再购 123,750,000 股的期权。指导价为每股 70.00–78.00 美元，已申请在纳斯达克全球精选市场以代号 ANT 上市；登记声明尚未生效，本稿不构成证券要约。
 
+**来源**：[Anthropic](https://www.anthropic.com/news/roadshow-launch)
+
