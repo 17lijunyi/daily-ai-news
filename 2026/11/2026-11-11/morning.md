@@ -8,3 +8,5 @@
 
 **来源**：[Google 官方博客](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
 
+## 2. OpenAI 推出 ChatGPT「企业入驻」公测与 Business Agent
+
