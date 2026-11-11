@@ -32,3 +32,5 @@ Anthropic 宣布在 Claude 内推出 Claude Whiteboards 与 Claude Sheets 公测
 
 **来源**：[Claude](https://claude.com/resources/articles/sheets-whiteboards-data)
 
+## 6. Anthropic 启动拟议 IPO 路演，指导价每股 70–78 美元
+
