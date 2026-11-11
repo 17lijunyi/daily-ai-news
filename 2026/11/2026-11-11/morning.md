@@ -26,3 +26,5 @@ Google DeepMind 11 月 10 日推出迄今最强视觉-语言-动作模型 Gemini
 
 **来源**：[Google DeepMind](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
 
+## 5. Anthropic 上线 Claude Whiteboards 与 Sheets 公测，Claude Data 正式可用
+
