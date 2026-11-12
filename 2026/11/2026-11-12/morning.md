@@ -26,3 +26,5 @@ MiniMax 11 月 11 日发布并开源图像生成模型 H3-Image，统一支持�
 
 **来源**：[MiniMax](https://www.minimax.io/blog/minimax-h3-image)
 
+## 5. DeepL 发布语音翻译模型 Aure，可实时跟随语气与语速变化
+
