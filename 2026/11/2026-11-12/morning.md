@@ -4,3 +4,7 @@
 
 ## 1. 阿里通义千问上线 Qwen4-Max-Preview，仅通过 Token Plan 开放
 
+阿里云百炼于 11 月 11 日 10:00（北京时间）开放通义千问新一代旗舰多模态模型 Qwen4-Max-Preview，支持文本生成、图片与视频理解、深度思考、联网搜索和工具调用，并兼容 OpenAI 与 Anthropic API。官方文档显示，该预览版仅支持 Token Plan、不支持按量计费，上下文长度为 100 万 token，最大输出 393,216 token（思考与最终回答共享预算）；预览期至 11 月 25 日 24:00，期间不做变更，结束后将下线。
+
+**来源**：[阿里云帮助中心](https://help.aliyun.com/zh/model-studio/qwen4-max-preview)
+
