@@ -12,3 +12,5 @@
 
 谷歌 11 月 11 日推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，面向工具选择、策略检查、模型路由和评分等封闭式决策。开发者可在一次请求中提交文本、图像、音频、视频或 PDF（最长 25.6 万 token），并对同一输入同时提出最多 1000 个是非、选择题或量表问题；模型不逐 token 生成答案，而是一次前向计算返回概率与置信度，端到端时延约 150–250 毫秒。定价为每百万输入 token 0.10 美元，输出 token 不计费，现已通过 Google AI Studio 的 Gemini API 开放。
 
+**来源**：[Google 官方博客](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
+
