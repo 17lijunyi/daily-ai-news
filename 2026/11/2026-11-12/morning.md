@@ -32,3 +32,7 @@ DeepL 11 月 11 日发布语音 AI 翻译模型 Aure，作为 DeepL Voice 的底
 
 **来源**：[DeepL](https://www.deepl.com/en/press-release/aure-voice-ai-model)
 
+## 6. 智元发布终身具身智能框架 LIFE，开源感知模型与评测资源
+
+智元 AGIBOT 发布终身具身智能框架 LIFE（Learning to Live），把持续感知、长期记忆与能力复用放进同一套系统，让机器人在任务执行期间及任务间隔也能观察环境，并把历史经验用于后续决策。框架包括轻量感知门控模型 RoboBeats（基于 Qwen3.5，提供 0.8B、2B、4B 规格）、保存原始画面与结构化记录的可塑性记忆，以及将验证过的方法沉淀为可复用工具的 EDM 机制。论文、项目主页、RoboBeats 推理代码与权重，以及 SSS-Bench 评测资源已同步开放。
+
