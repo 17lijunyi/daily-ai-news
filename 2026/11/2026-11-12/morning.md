@@ -22,3 +22,7 @@ Google DeepMind 11 月 11 日发布新一代 DNA 序列模型 AlphaGenome 2，�
 
 ## 4. MiniMax 开源图像模型 H3-Image，可在 10 秒内原生生成 4K 图
 
+MiniMax 11 月 11 日发布并开源图像生成模型 H3-Image，统一支持文生图、基于参考图的生成以及图像编辑，最多可同时使用 16 张参考图。官方称该模型可在 10 秒内直接生成 4096×4096 的 4K 图像，无需外接超分；权重已在 Hugging Face 开放，同时上线 MiniMax API、MiniMax Code 与海螺 AI。发布当周，4K 及以上分辨率的图像生成请求可享标准价五折。
+
+**来源**：[MiniMax](https://www.minimax.io/blog/minimax-h3-image)
+
