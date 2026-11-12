@@ -18,3 +18,7 @@
 
 Google DeepMind 11 月 11 日发布新一代 DNA 序列模型 AlphaGenome 2，用于预测基因序列及其变异如何影响特定人类细胞类型与状态，而不再只给出组织层面的平均结果。该模型在超过 1 亿个单细胞图谱、覆盖 68 种组织上训练；在 TenK10K 测试中，官方称其识别导致表达变化的变异比例由 16% 升至 30%，效应方向判断准确率由 23% 升至 43%。目前已通过 AlphaGenome API 向非商业研究开放，商业研究为私有预览；官方强调该工具仅供科研使用，尚未经过临床或诊断验证。
 
+**来源**：[Google DeepMind](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
+
+## 4. MiniMax 开源图像模型 H3-Image，可在 10 秒内原生生成 4K 图
+
