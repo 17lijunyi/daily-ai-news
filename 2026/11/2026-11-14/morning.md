@@ -28,3 +28,5 @@ SpaceX 于 11 月 12 日宣布，计划投资逾 740 亿美元建设两座 AI �
 
 ## 5. OpenAI 推出 Daybreak Red Team 与 Defense Factory 安全工具
 
+OpenAI 于 11 月 12 日在「Cyber at the Frontier」活动上推出两款 Daybreak 安全产品：Red Team 由智能体团队对 Web 应用做授权渗透测试，验证漏洞是否真实可利用并复测补丁，目前处于早期试用；Defense Factory 接入 GitHub 仓库后持续扫描代码、追溯漏洞根因并起草可合并的补丁，由工程师审核后提交，以 ChatGPT 内插件形式提供研究预览。两款产品均未公布定价，也尚未全面开放。
+
