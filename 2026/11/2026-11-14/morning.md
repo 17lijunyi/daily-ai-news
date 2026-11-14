@@ -18,3 +18,7 @@
 
 Anthropic 于 11 月 12 日推出 Claude Meetings 公测，Claude 可以可见参与者的身份加入视频会议，实时记笔记、回答提问，并在会中搭建文档与白板，会后整理出会议记录与待办事项。该功能先面向 Team 与 Enterprise 计划推出，初期仅支持 Google Meet，其他平台随后跟进。公测期间笔记与文字记录免费，会中生成的文档与白板免费至 2027 年 2 月 10 日；零数据保留、HIPAA 就绪或客户自管加密密钥的组织暂不可用。
 
+**来源**：[Anthropic](https://claude.com/resources/articles/claude-meetings)
+
+## 4. SpaceX 拟投逾 740 亿美元，在得州与亚利桑那州建两座 AI 超算园区
+
