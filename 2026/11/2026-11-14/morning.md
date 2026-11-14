@@ -10,3 +10,5 @@
 
 ## 2. 前 OpenAI 研究员称六款中国大模型权重中含 Blackwell 芯片指纹
 
+前 OpenAI 研究员 Will DePue 于 11 月 13 日发布「检查点取证」分析，称 DeepSeek-V4-Pro、DeepSeek-V4-Flash、Kimi K3、Kimi K3.1-Pro、MiniMax-M3 与蚂蚁 Ling-3.1-flash 六款模型的公开权重中，带有英伟达 Blackwell 芯片的初始化指纹。他表示该方法在 24 款训练硬件已知的对照模型上全部验证正确，并估计相关五次训练共用了约 1.2 万块 Blackwell GPU。这一证据只能说明所用芯片型号，无法证明芯片所在地或所有权，因此本身并不等同于走私或违反出口管制的证据。
+
