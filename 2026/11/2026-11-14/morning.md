@@ -6,3 +6,5 @@
 
 英伟达联合创始人黄仁勋于 11 月 12 日辞去总裁、首席执行官及董事职务，即时生效，结束其长达 33 年的掌舵。董事会任命自 2013 年起担任 CFO 的 Colette Kress 出任临时 CEO 并继续兼任财务工作，同时任命长期董事 Harvey C. Jones 为董事会首任主席，并将面向内外部物色正式继任者。此前董事会已就黄仁勋被指成为外国情报行动目标的相关报道启动独立调查；公司未公开说明辞职原因，英伟达仍定于 11 月 17 日发布财报。
 
+**来源**：[The San Francisco Inquirer](https://sfinquirer.com/2026/11/13/nvidia-jensen-huang-resigns-colette-kress-interim-ceo/)
+
