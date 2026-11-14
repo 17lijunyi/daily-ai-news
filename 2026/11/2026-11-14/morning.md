@@ -8,3 +8,5 @@
 
 **来源**：[The San Francisco Inquirer](https://sfinquirer.com/2026/11/13/nvidia-jensen-huang-resigns-colette-kress-interim-ceo/)
 
+## 2. 前 OpenAI 研究员称六款中国大模型权重中含 Blackwell 芯片指纹
+
