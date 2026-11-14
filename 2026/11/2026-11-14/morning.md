@@ -32,3 +32,5 @@ OpenAI 于 11 月 12 日在「Cyber at the Frontier」活动上推出两款 Dayb
 
 **来源**：[ExplainX](https://www.explainx.ai/blog/openai-daybreak-red-team-defense-factory-launch-november-2026)
 
+## 6. 四家非营利组织起诉五大 AI 公司，要求冻结前沿模型开发
+
