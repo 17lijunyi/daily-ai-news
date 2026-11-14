@@ -26,3 +26,5 @@ SpaceX 于 11 月 12 日宣布，计划投资逾 740 亿美元建设两座 AI �
 
 **来源**：[Reuters（经 WNCY 转载）](https://wncy.com/2026/11/12/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona/)
 
+## 5. OpenAI 推出 Daybreak Red Team 与 Defense Factory 安全工具
+
