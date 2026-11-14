@@ -34,3 +34,5 @@ OpenAI 于 11 月 12 日在「Cyber at the Frontier」活动上推出两款 Dayb
 
 ## 6. 四家非营利组织起诉五大 AI 公司，要求冻结前沿模型开发
 
+四家非营利组织 Irreplaceable Education Fund、Public Citizen、Heat Initiative 与 Alliance for Secure AI 于 11 月 12 日在旧金山加州高等法院起诉 Anthropic、谷歌、Meta、OpenAI 与 SpaceX 的 AI 部门，依据加州《反不正当竞争法》，请求禁令冻结比现有最强系统更先进的 AI 系统的开发与部署，理由是相关公司在明知风险的情况下仍在推进难以可靠控制的技术。法院尚未作出任何裁决，被告也尚未就诉状作出回应，诉讼请求能否成立仍待审理。
+
