@@ -14,3 +14,5 @@
 
 **来源**：[Pivot News](https://pivotnews.ai/five/chinese-models-carry-blackwell-fingerprints-ex-openai)
 
+## 3. Anthropic 推出 Claude Meetings 公测，Claude 可加入视频会议
+
