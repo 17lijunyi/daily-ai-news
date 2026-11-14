@@ -24,3 +24,5 @@ Anthropic 于 11 月 12 日推出 Claude Meetings 公测，Claude 可以可见�
 
 SpaceX 于 11 月 12 日宣布，计划投资逾 740 亿美元建设两座 AI 超算园区：得州 Starbase 逾 240 亿美元，亚利桑那州 Cochise County 约 500 亿美元。其中亚利桑那园区满负荷用电可达 6 吉瓦，预计创造约 5500 个建筑岗位与 1000 个永久岗位。两座园区均未获得最终批准，12 月 9 日将面临地方表决：Cochise County 举行分区听证，Starbase 市委员会审议税收减免。
 
+**来源**：[Reuters（经 WNCY 转载）](https://wncy.com/2026/11/12/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona/)
+
