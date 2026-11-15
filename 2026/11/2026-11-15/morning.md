@@ -26,3 +26,5 @@ Cursor 于 11 月 13 日公布安全事件调查结论：攻击源头在推理�
 
 **来源**：[Pivot News](https://pivotnews.ai/five/openai-folds-its-stand-alone-robotics-team-into-wider)
 
+## 5. DeepSeek 向开发者开放 App 同款能力：联网搜索、文件解析与语音
+
