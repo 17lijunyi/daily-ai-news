@@ -22,3 +22,7 @@ Cursor 于 11 月 13 日公布安全事件调查结论：攻击源头在推理�
 
 ## 4. OpenAI 解散独立机器人团队，押注通用模型直接操控机器人
 
+据 Fortune 11 月 13 日独家报道，OpenAI 已解散独立机器人团队，研究人员并入首席研究官 Mark Chen 领导的主研究团队，应用机器人与硬件人员转入总裁 Greg Brockman 负责的 Applied 部门。OpenAI 向 Fortune 确认了此次调整，理由是 GPT-6 Astra 等通用前沿模型如今可以直接操控机器人，不再需要单独团队去做机器人专用模型；英伟达 10 月的一项模拟研究显示 GPT-6 Astra 在操作基准上成功率达 74.8%，高于专用模型的 51.0%。公司同时强调机器人仍是长期方向，人形机器人公开演示仍以 2027 年为目标。
+
+**来源**：[Pivot News](https://pivotnews.ai/five/openai-folds-its-stand-alone-robotics-team-into-wider)
+
