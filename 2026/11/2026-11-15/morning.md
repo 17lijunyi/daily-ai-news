@@ -28,3 +28,7 @@ Cursor 于 11 月 13 日公布安全事件调查结论：攻击源头在推理�
 
 ## 5. DeepSeek 向开发者开放 App 同款能力：联网搜索、文件解析与语音
 
+DeepSeek 于 11 月 13 日更新 API 变更日志，把聊天 App 背后的一整套能力开放给开发者。deepseek-flash 模型（对应 DeepSeek-V4.1-Flash-1017）在 Messages、Responses 与 Chat Completions 三种接口中新增带引用的联网搜索、多步深度思考搜索、PDF 与 Office 文件解析、链接读取及内容安全检查，工具调用与上下文组装均由服务端完成；搜索、取页、OCR、语音识别与语音合成还可作为独立 API 单独调用。DeepSeek 同时开源了一个基于这些 API 的演示聊天客户端，可导入用户已导出的对话记录。
+
+**来源**：[DeepSeek API 文档](https://api-docs.deepseek.com/updates/?release=deepseek-v4)
+
