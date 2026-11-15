@@ -18,3 +18,7 @@ Anthropic 于 11 月 13 日至 14 日升级 Claude Code Projects，协调员如�
 
 Cursor 于 11 月 13 日公布安全事件调查结论：攻击源头在推理供应商 Fireworks AI，Cursor 发给对方的一枚访问密钥在 Fireworks 一侧泄露，攻击者借此复制了双方共享的只读存储桶中的部分编程智能体轨迹，其中少数未脱敏的轨迹含有用户凭证，不到 0.01% 的客户 API 凭证被波及。攻击者随后于 10 月 29 日将篡改版 Anthropic Claude Code 扩展（2.1.312 与 2.1.313）放入 Cursor 扩展市场的缓存，约 11 小时内最多 5000 名用户可能收到该版本。Cursor 表示事件已得到控制，最后一次攻击活动在 11 月 1 日被拦截，推理流量已全部迁出 Fireworks，密钥已吊销，全部内部凭证已轮换。
 
+**来源**：[Cursor](https://cursor.com/blog/security-incident-update)
+
+## 4. OpenAI 解散独立机器人团队，押注通用模型直接操控机器人
+
