@@ -12,3 +12,5 @@ OpenAI 于 11 月 13 日推出 ChatGPT Wallet，让其常驻智能体 dots 能�
 
 Anthropic 于 11 月 13 日至 14 日升级 Claude Code Projects，协调员如今会在项目对话中主动汇报进展，并可同时调度多个并行工作线程。每个线程都是一个独立的 Claude Code 云端会话，拥有自己的代码副本与 Git 分支，可再拆分子智能体或工作流，任务在用户合上电脑后仍继续进行；但多个完整会话并行会更快消耗用量额度，全项目每天新建线程上限为 200 个。此次更新以公测形式先面向部分使用云端会话的 Claude Pro 与 Max 订阅者开放，Team 与 Enterprise 计划暂未覆盖。
 
+**来源**：[Pivot News](https://pivotnews.ai/build/anthropic-rebuilds-claude-projects-around-coordinated)
+
