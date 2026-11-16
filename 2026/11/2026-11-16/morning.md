@@ -14,3 +14,5 @@
 
 **来源**：[The Decoder](https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/)
 
+## 3. Anthropic 将 Claude Opus 5.5 设为付费套餐默认模型，并发布新版提示指南
+
