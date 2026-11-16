@@ -26,3 +26,5 @@ OpenAI 于 11 月 15 日开设科学博客，首篇客座文章由加州大学�
 
 **来源**：[AI Brief](https://dailyaibrief.com/news/openai-gpt-6-astra-standard-model-lattice-proof-hFYmscOH)
 
+## 5. 印度芯片初创 Bharat Semi 获 2400 万美元种子轮，做单芯片 AI 图像传感器
+
