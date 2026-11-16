@@ -24,3 +24,5 @@ Anthropic 已将 Claude Opus 5.5 设为 Pro、Max、Ultra 与 Team 等全部付�
 
 OpenAI 于 11 月 15 日开设科学博客，首篇客座文章由加州大学圣塔芭芭拉分校物理学家、OpenAI 访问科学家 Nathaniel Craig 撰写，介绍他与 GPT-6 Astra 合作提出的标准模型格点定义候选方案。把标准模型放到时空格点上是困扰学界五十多年的难题，难点在于弱相互作用对左右手粒子的处理方式不同；Craig 称 Astra 提出了把规范场搬到更精细格点上的方法，证明了比较结果会收敛到确定答案，并在详细证明中起了主导作用。该结果仍是原理性方案而非可直接用于模拟的实用工具，关键性质仍待同行检验，相关预印本已于 10 月提交。
 
+**来源**：[AI Brief](https://dailyaibrief.com/news/openai-gpt-6-astra-standard-model-lattice-proof-hFYmscOH)
+
