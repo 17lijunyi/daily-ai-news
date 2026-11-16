@@ -30,3 +30,5 @@ OpenAI 于 11 月 15 日开设科学博客，首篇客座文章由加州大学�
 
 印度新德里芯片初创 Bharat Semi 宣布完成 2400 万美元全股权种子轮融资，用于开发把图像采集、信号处理与 AI 计算集成在同一芯片上的可编程图像传感器，以减少把视觉数据送往独立处理器处理的需求。领投方为 Info Edge Group、South Park Commons 与 Indus Bridge Ventures，Valour Capital、Micromax 与 Gaingels 等参投。公司称已拿下美国防务技术公司 General Atomics 与印度 Kaynes Semicon 的设计导入订单，但公司目前仍未产生收入，第一代传感器处于原型阶段，目标 2027 年实现初步商业化生产。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
+
