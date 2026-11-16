@@ -10,3 +10,5 @@
 
 ## 2. Gemini 4 Carbon 登顶 MathArena 数学榜，单题成本约为 GPT-6.1 Sol 的 15 倍
 
+谷歌 Gemini 4 Carbon 在独立数学基准 MathArena 上以 85.4% 的预期成绩登顶，超过 Anthropic 的 Claude Fable 5.2（82.8%）与此前榜首 OpenAI 的 GPT-6.1 Sol（80.6%），成为一段时间以来首个登顶该榜的非 OpenAI 模型。代价是成本：在测试所用的推理强度下，Carbon 每题平均花费约 15.70 美元，约为 Sol 的 15 倍，Fable 5.2 则约为 40.20 美元；三者的误差范围存在重叠，排名差距比名次看起来更小。MathArena 于 11 月 13 日新增了这两个模型，Carbon 最常见的失败原因是超出时间限制，测试中它几乎从不主动放弃题目。
+
