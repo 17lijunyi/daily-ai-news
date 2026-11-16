@@ -16,3 +16,5 @@
 
 ## 3. Anthropic 将 Claude Opus 5.5 设为付费套餐默认模型，并发布新版提示指南
 
+Anthropic 已将 Claude Opus 5.5 设为 Pro、Max、Ultra 与 Team 等全部付费套餐的默认模型，并建议用户把它作为日常主力模型，同时发布新的提示指南。指南建议从 Medium 推理强度起步，并去掉“think step by step”“think hard”等旧式提示语，让模型内部的自适应推理接管思考过程；Anthropic 称，沿用旧提示习惯反而会拖慢 Opus 5.5 的表现。Opus 5.5 的 API 定价为每百万输入 token 4 美元、输出 20 美元，约为 Fable 5.2 的一半，且包含在 Pro 等套餐的常规用量额度内。
+
