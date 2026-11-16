@@ -8,3 +8,5 @@
 
 **来源**：[Reuters（经 WNCY 转载）](https://wncy.com/2026/11/15/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports/)
 
+## 2. Gemini 4 Carbon 登顶 MathArena 数学榜，单题成本约为 GPT-6.1 Sol 的 15 倍
+
