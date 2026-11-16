@@ -36,3 +36,5 @@ OpenAI 于 11 月 15 日开设科学博客，首篇客座文章由加州大学�
 
 澳大利亚储备银行（RBA）分析师 Mike Major 的新分析显示，AI 对就业的影响尚未在全澳范围内造成大规模岗位流失，但最先感受到压力的是年轻人。自 ChatGPT 于 2022 年底问世以来，软件开发、文书与客服等 AI 高暴露职业的招聘广告与就业人数下降最为明显，其中 15 至 24 岁群体与应届毕业生的就业率走弱、失业率上升，而同领域年长员工的就业反而有所增长。作者同时提醒，该研究衡量的是职业的理论暴露度而非企业实际采用情况，不能直接证明 AI 造成了就业下滑，经济周期与远程办公趋势也可能是原因之一。
 
+**来源**：[The Decoder](https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/)
+
