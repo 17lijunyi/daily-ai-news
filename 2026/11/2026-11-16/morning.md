@@ -32,3 +32,5 @@ OpenAI 于 11 月 15 日开设科学博客，首篇客座文章由加州大学�
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
 
+## 6. 澳大利亚央行分析：AI 首先冲击软件与客服领域的年轻求职者
+
