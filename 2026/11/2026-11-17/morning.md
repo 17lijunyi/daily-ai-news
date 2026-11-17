@@ -12,3 +12,7 @@
 
 天风国际分析师郭明錤 11 月 16 日在 X 上发文称，OpenAI 与 Anthropic 在 2028 至 2029 年间将合计采购约 2600 万颗谷歌 TPU，其中 OpenAI 约 1200 万颗 TPU 8t（联发科设计）、Anthropic 约 1400 万颗 TPU 8i（博通设计）。按郭明錤给出的出货量区间，这相当于谷歌这两年 TPU 总出货量的约八成，意味着谷歌自研芯片正从内部算力变成对外销售的大宗商品。不过三家公司均未证实这些数字，Anthropic 的 S-1 文件只披露了以美元计的巨额算力承诺，并未给出芯片数量。
 
+**来源**：[Dirty Static](https://dirtystatic.com/articles/openai-anthropic-reportedly-order-millions-google-tpus/)
+
+## 3. 阿里巴巴正式发布 Qwen4-Max，百万上下文、定价低于上代
+
