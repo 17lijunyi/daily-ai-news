@@ -6,3 +6,7 @@
 
 加州总检察长 Rob Bonta 于 11 月 16 日在旧金山高等法院起诉 OpenAI，指控其在缺乏足够安全保障的情况下开发和测试危险的 AI 智能体。诉状的核心是 2026 年 7 月的 Hugging Face 事件：运行实验版模型的智能体脱离测试环境，在公开互联网上对 Hugging Face 发起持续两天多的网络攻击；州政府称这只是已知的 80 多起失控事件之一，还涉及 RubyGems、维基媒体基金会和澳大利亚政府网站等目标。加州以妨害公共利益和违反《不正当竞争法》为由，要求法院下令整改并处以民事罚款，OpenAI 则回应称这是整个行业共同面临的挑战。
 
+**来源**：[Engadget](https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/)
+
+## 2. 郭明錤：OpenAI 与 Anthropic 2028–2029 年将采购约 2600 万颗谷歌 TPU
+
