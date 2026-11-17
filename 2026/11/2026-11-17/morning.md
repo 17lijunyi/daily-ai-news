@@ -16,3 +16,5 @@
 
 ## 3. 阿里巴巴正式发布 Qwen4-Max，百万上下文、定价低于上代
 
+阿里巴巴于 11 月 16 日正式发布 Qwen4-Max，这是 Qwen4 系列的首个完整旗舰模型，此前 11 月 11 日仅以 Token Plan 订阅方式开启预览。新模型采用 2.4 万亿参数混合专家架构（每 token 激活 710 亿参数），支持原生视觉理解与 100 万 token 上下文，已上线 QwenCloud API、Qwen Studio、QwenWork 与 Qoder。定价为每百万输入 token 1.50 美元、输出 4.50 美元，比上代 Qwen3.8-Max 便宜约四分之一；权重暂不公开，独立评测 Artificial Analysis 给出 43 分，低于 Kimi K3.1 Pro 的 46 分与 Claude Opus 5.5 的 59 分。
+
