@@ -24,3 +24,7 @@
 
 英伟达 11 月 16 日公布，Vera Rubin NVL72 平台首次参加 MLPerf Training v6.1 便横扫全部七项基准，其中六项拿到最快训练成绩，单 GPU 性能最高达到上代 GB300 NVL72 的约两倍。在 DeepSeek-V3 671B 测试中，系统用 1024 颗 GPU 仅 4.14 分钟完成训练，从 256 颗扩到 1024 颗时扩展效率约 97%。Vera Rubin 还首次提交 MLPerf Endpoints 智能体推理成绩，在 Kimi K3 测试中单位功耗吞吐量超过 GB300 NVL72 的 10 倍，不过该成绩仍为待 MLCommons 核验的临时结果。
 
+**来源**：[NVIDIA 官方博客](https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/)
+
+## 5. IMF 警告：AI 循环融资超 1 万亿美元，世界经济“单腿站立”
+
