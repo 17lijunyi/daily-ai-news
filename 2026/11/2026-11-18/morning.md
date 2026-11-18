@@ -26,3 +26,9 @@ Hugging Face 于 11 月 16 日宣布，其 Inference Providers 服务的语言�
 
 **来源**：[Hugging Face 官方博客](https://huggingface.co/blog/openrouter)
 
+## 5. Anthropic 把漏洞披露窗口从 90 天缩到 30 天，AI 让漏洞更快被重复发现
+
+Anthropic 于 11 月 16 日更新其协调漏洞披露政策：自 2027 年 1 月 1 日起，由其前沿红队报告的高危与严重漏洞，厂商只有 30 天修复期（原为 90 天），其他漏洞为 45 天；补丁发布后完整技术细节的公开间隔也从 45 天缩至 30 天。Anthropic 解释称，AI 已让同一漏洞被不同模型重复发现变得容易，90 天的旧假设不再成立；已被利用的漏洞仍维持 7 天窗口，未经人工复核的 AI 发现不在新政策范围内。谷歌 Project Zero 也在 11 月 13 日宣布了类似的缩短计划。
+
+**来源**：[Anthropic 官方](https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines)
+
