@@ -14,3 +14,9 @@ OpenAI 于 11 月 16 日宣布，与 Apollo Research、Goodfire、METR 和 Trans
 
 **来源**：[The Register](https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307)
 
+## 3. 谷歌首次发现 AI 智能体把补丁自动变成攻击代码，全程无人干预
+
+谷歌威胁情报小组（GTIG）于 11 月 16 日发布的 AI 威胁追踪报告披露，攻击者首次实现漏洞发现与利用的全自动化：名为 exploit_agent 的多智能体框架持续比对流行网络软件的补丁前后代码，推断补丁修复的漏洞，自动编写并执行攻击，全程无需人工。谷歌在一个暴露的测试服务器上发现了该框架，服务器还存有受害者数据及俄语注释的配置文件，但未确认攻击者身份与成功次数；报告预计未来一到三个月内会出现更多几乎无人参与的多智能体攻击。
+
+**来源**：[Sayer](https://sayer.news/article/google-says-an-ai-framework-turned-patches-into-exploits-with-no-human-in-the-loop-f498e260)
+
