@@ -8,3 +8,9 @@ OpenAI 于 11 月 16 日宣布，与 Apollo Research、Goodfire、METR 和 Trans
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/)
 
+## 2. 美国收紧 AI 芯片出口：五国须持证，远程租用算力也被管住
+
+美国商务部产业安全局（BIS）于 11 月 16 日发布临时最终规则《应对先进半导体的远程访问》，向巴西、印度尼西亚、马来西亚、新加坡和泰国出口先进 AI 芯片须先取得许可证，以防芯片经第三国转运至中国；同时，全球任何数据中心若向中国、澳门等 D:5 组国家企业提供超过 1200 万 TPP 的算力，也须持证。规则计划 11 月 19 日在《联邦公报》刊登后生效，并正式废止此前的 AI 扩散规则。
+
+**来源**：[The Register](https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307)
+
