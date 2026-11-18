@@ -20,3 +20,9 @@ OpenAI 于 11 月 16 日宣布，与 Apollo Research、Goodfire、METR 和 Trans
 
 **来源**：[Sayer](https://sayer.news/article/google-says-an-ai-framework-turned-patches-into-exploits-with-no-human-in-the-loop-f498e260)
 
+## 4. Hugging Face 推理服务改由 OpenRouter 路由，80 多家服务商按需选择
+
+Hugging Face 于 11 月 16 日宣布，其 Inference Providers 服务的语言模型推理改由 OpenRouter 路由，取代自研路由器。开发者仍用同一个 Hugging Face 令牌和 API 调用 Hub 上的开源权重模型，OpenRouter 会根据实时价格、速度与可靠性在 80 多家服务商中为每次请求挑选最优者，失败时自动换一家重试。代价是语言模型不再支持自带第三方服务商密钥，图片、视频与音频生成不受影响。
+
+**来源**：[Hugging Face 官方博客](https://huggingface.co/blog/openrouter)
+
