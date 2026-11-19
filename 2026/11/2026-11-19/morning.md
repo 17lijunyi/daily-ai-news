@@ -18,3 +18,7 @@ OpenAI 于 11 月 17 日发布 GPT-6.2 Astra 与 GPT-6.2 Sol，上线 ChatGPT Wo
 
 Anthropic 于 11 月 18 日将 IPO 定价为每股 83 美元，高于此前 70 至 78 美元的指导区间，发行规模扩大至 9.8 亿股，募资约 813 亿美元，成为史上最大规模 IPO。按完全摊薄计算，公司估值约 1.5 万亿美元，高于 5 月私募轮的 9650 亿美元；股票将于 11 月 19 日在纳斯达克以代码 ANT 开始交易。公司前九个月收入 332 亿美元，同比增长逾 1200%，另有 260 亿美元的私募配售同步进行。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/?ref=implicator.ai)
+
+## 4. 微软 Ignite 发布七款自研 MAI 模型，主打低价高性价比
+
