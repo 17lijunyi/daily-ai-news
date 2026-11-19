@@ -6,3 +6,7 @@
 
 OpenAI 于 11 月 17 日发布 GPT-6.2 Astra 与 GPT-6.2 Sol，上线 ChatGPT Work、Codex 与 API。Astra 面向最难的专业任务，Sol 则是日常高效模型；Astra 的 API 价格下调 20%，至每百万 token 输入 8 美元、输出 40 美元，Sol 维持 2 美元与 10 美元。独立评测机构 Artificial Analysis 给 Astra 的智能指数打了 62 分，仅次于 Claude Fable 5.2 的 65 分；系统卡显示 Astra 是 OpenAI 首个自我改进风险评级达到 High 的对外发布模型，两款模型的网络安全评级均为 Critical。
 
+**来源**：[WinBuzzer](https://winbuzzer.com/2026/11/17/gpt-6-2-scores-higher-at-lower-cost-in-ai-tests-xcxwbn/)
+
+## 2. 谷歌发布 Gemini 4 Neon，并向 AI Ultra 用户开放 Genie 4
+
