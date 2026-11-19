@@ -12,3 +12,7 @@ OpenAI 于 11 月 17 日发布 GPT-6.2 Astra 与 GPT-6.2 Sol，上线 ChatGPT Wo
 
 谷歌于 11 月 18 日推出 Gemini 4 Neon，定位介于最强的 Carbon 与日常的 Hydrogen 之间，主打复杂编程、知识工作与科学任务，上下文窗口 100 万 token，定价为每百万 token 输入 3 美元、输出 15 美元，在 Artificial Analysis 智能指数上以 61 分排名第三。同日谷歌还通过 Project Genie 向 AI Ultra 订阅用户开放世界模型 Genie 4，支持用自然语言实时编辑模拟世界并生成原生音频，Pro 用户可加入等候名单。
 
+**来源**：[Google 官方博客](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+
+## 3. Anthropic IPO 定价 83 美元，估值约 1.5 万亿美元今晚上市
+
