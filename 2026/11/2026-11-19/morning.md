@@ -24,3 +24,7 @@ Anthropic 于 11 月 18 日将 IPO 定价为每股 83 美元，高于此前 70 �
 
 微软在 11 月 17 日的 Ignite 大会上发布七款自研 MAI 模型，覆盖编程、网络安全、图像、语音、转录与决策路由。微软称主力编程模型 MAI Code 2 在四项基准上达到 GPT-6.1 Sol 约 98% 的水平、价格约 40%，已上线 GitHub Copilot；首个实时语音模型 MAI Realtime 1 起价为每音频分钟 1 美分。微软同时推出 MAI Licensed Weights，允许选定企业在自有 Azure 环境内定制部署模型，但权重并不公开下载。
 
+**来源**：[The Latent Daily](https://thelatentdaily.com/news/microsoft-mai-models-ignite-2026-licensed-weights/)
+
+## 5. 英国议会发布 AI 安全报告，点名十大监管缺口
+
