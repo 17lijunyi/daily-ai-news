@@ -16,3 +16,5 @@
 
 CERT-EU 指出涉事工具疑为 AI 驱动的渗透测试框架 ARTEX，美国 FBI 也曾于 11 月 13 日警告该工具正被滥用；委员会称暂未发现大规模员工数据泄露，但不排除个别信息外泄的可能，入侵最初于 10 月 22 日被发现。
 
+**来源**：[Security Affairs](https://securityaffairs.com/203483/hacking/european-commission-cyberattack-artex-ai-tool-suspected-in-prolonged-disruption.html)
+
