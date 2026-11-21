@@ -18,3 +18,5 @@ CERT-EU 指出涉事工具疑为 AI 驱动的渗透测试框架 ARTEX，美国 F
 
 **来源**：[Security Affairs](https://securityaffairs.com/203483/hacking/european-commission-cyberattack-artex-ai-tool-suspected-in-prolonged-disruption.html)
 
+## 3. 谷歌牵手 Blue Origin：2029 年一季度用 New Glenn 发射天基 AI 算力卫星
+
