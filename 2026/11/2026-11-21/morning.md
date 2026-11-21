@@ -40,3 +40,5 @@ CERT-EU 指出涉事工具疑为 AI 驱动的渗透测试框架 ARTEX，美国 F
 
 取消紧随美国商务部 11 月 16 日出台的新规：向中国客户提供超限算力的海外数据中心须先获许可，印尼等五国也被纳入许可范围；报道称月之暗面已签下另一家替代供应商，并暂停了其他新算力合同的谈判。
 
+**来源**：[ForkLog](https://forklog.com/en/moonshot-ai-cancels-150m-nvidia-chip-leasing-deal/)
+
