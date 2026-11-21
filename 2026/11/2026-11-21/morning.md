@@ -10,3 +10,5 @@
 
 **来源**：[Google Blog](https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/)
 
+## 2. 欧盟委员会确认遭 AI 辅助网络攻击，人事与医疗报销系统中断十余天
+
