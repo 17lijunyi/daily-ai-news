@@ -32,3 +32,5 @@ CERT-EU 指出涉事工具疑为 AI 驱动的渗透测试框架 ARTEX，美国 F
 
 多家服务商还被发现无视零数据留存（ZDR）等隐私设置，甚至有提示词中的链接在数周后出现在中国某公司内部聊天中；研究者建议，对敏感负载优先自托管推理，并指出隐私承诺的有效性取决于经手的每一个环节。
 
+**来源**：[Dragos](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
+
