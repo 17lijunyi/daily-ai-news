@@ -24,3 +24,7 @@ CERT-EU 指出涉事工具疑为 AI 驱动的渗透测试框架 ARTEX，美国 F
 
 该项目旨在利用轨道上充沛的太阳能运行 AI 负载，缓解地面电网与散热压力；此前原型卫星已于 10 月入轨，2027 年还将测试双星激光互联，以验证多颗卫星能否像分布式 AI 系统一样协同工作。
 
+**来源**：[Google Blog](https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/)
+
+## 4. Dragos 金丝雀测试：近 200 万条提示词揭示 AI 推理链路多处泄漏
+
