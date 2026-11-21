@@ -34,3 +34,5 @@ CERT-EU 指出涉事工具疑为 AI 驱动的渗透测试框架 ARTEX，美国 F
 
 **来源**：[Dragos](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
 
+## 5. Moonshot AI 取消 1.5 亿美元印尼英伟达 B300 租赁协议
+
