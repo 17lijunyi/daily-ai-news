@@ -42,3 +42,5 @@ CERT-EU 指出涉事工具疑为 AI 驱动的渗透测试框架 ARTEX，美国 F
 
 **来源**：[ForkLog](https://forklog.com/en/moonshot-ai-cancels-150m-nvidia-chip-leasing-deal/)
 
+## 6. 美国两党参议员提出 AUDIT AI 法案，要求上市公司披露表外 AI 算力融资
+
