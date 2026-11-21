@@ -48,3 +48,5 @@ CERT-EU 指出涉事工具疑为 AI 驱动的渗透测试框架 ARTEX，美国 F
 
 法案还要求企业披露 AI 治理政策与董事会监督安排，并对 AI 敞口较大的公司增设标准化的 10-K 风险章节；背景是美联储与市场对 AI 循环融资、表外债务放大的担忧升温。
 
+**来源**：[The Freedom Press](https://thefreedompress.in/us-senators-seek-greater-disclosure-of-ai-financing-risks/)
+
