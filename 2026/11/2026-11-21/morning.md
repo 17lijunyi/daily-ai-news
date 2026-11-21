@@ -8,3 +8,5 @@
 
 该功能先在美国向 18 岁以上个人账号的 Google AI Plus、Pro 或 Ultra 订阅用户开放，需 Apple Silicon Mac 与 macOS Sequoia 15 及以上；用户可自选授权应用、实时查看进度并随时暂停，谷歌同时提醒智能体可能受不可信内容中的提示注入影响，须谨慎管理权限。
 
+**来源**：[Google Blog](https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/)
+
