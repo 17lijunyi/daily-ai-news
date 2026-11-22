@@ -34,3 +34,5 @@ Signal 总裁 Meredith Whittaker 表示，系统级 AI 智能体通过扫描屏�
 
 **来源**：[Reuters](https://live.euronext.com/en/financial-news/exclusive-nvidias-accounting-focus-us-sec-investigation-sources-say)
 
+## 5. Anthropic 上市次日跌 8.5%，纳斯达克抹去 2026 年全部涨幅
+
