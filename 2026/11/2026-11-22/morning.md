@@ -8,3 +8,5 @@ Anthropic 数学家 Levent Alpöge 于 11 月 20 日发文称，他与 Claude �
 
 11 月 21 日，Lean 形式化研究组织与 Mathlib 计划宣布已独立验证该证明，称多套检查系统均接受了这一证明；不过该结论仍未经过同行评审，克莱数学研究所网站上黎曼猜想仍列为未解问题，同一天斯坦福大学也出现了一份独立提交的人类作者证明草稿。
 
+**来源**：[phys.org](https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html)
+
