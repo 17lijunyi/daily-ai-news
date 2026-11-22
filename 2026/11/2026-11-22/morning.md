@@ -40,3 +40,5 @@ Anthropic 股票 11 月 20 日收跌 8.5% 至 88.91 美元，盘中一度跌至 
 
 此次抛售正值 AI 交易信心动摇之际，英伟达、Meta、甲骨文等 AI 相关股票同步大跌，纳斯达克单日蒸发约 4 万亿美元市值；尽管如此，Anthropic 市值仍约 1.2 万亿美元，首日收盘价较发行价仍高约 7%。
 
+**来源**：[Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11202026-12266027)
+
