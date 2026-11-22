@@ -48,3 +48,5 @@ Thinking Machines Lab 于 11 月 20 日发布开源权重模型 Inkling 2 Mini�
 
 该模型总显存占用约 20GB，可在 32GB 内存的 Mac 笔记本或英伟达 DGX Spark 上本地运行，上下文窗口达 100 万 token，采用 Apache 2.0 协议；官方基准显示其在 DeepSWE v1.1 上得 48.2%，领先同量级开源模型，发布当日即登顶 Hugging Face 热门榜。
 
+**来源**：[Thinking Machines](https://thinkingmachines.ai/news/inkling-2-mini/)
+
