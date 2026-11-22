@@ -16,3 +16,5 @@ OpenAI 于 11 月 20 日公开其对抗“对抗性蒸馏”的防御体系，�
 
 在内部自适应红队评估中，从历史请求中提取受保护推理的攻击成功率从 GPT-6 Astra 的 54.0% 降至 GPT-6.2 Astra 的 0.2%，从当前请求提取则从 22.9% 降至 0.9%；防御结合对抗训练、输入输出分类器与 API 层限制，并对每周数千至数万个账号的蒸馏团伙采取封禁措施。
 
+**来源**：[OpenAI](https://openai.com/index/combatting-adversarial-distillation/)
+
