@@ -32,3 +32,5 @@ Signal 总裁 Meredith Whittaker 表示，系统级 AI 智能体通过扫描屏�
 
 消息传出后英伟达股价当日收跌 14.01%，报 125.53 美元，单日市值蒸发约 4910 亿美元，并创下连续第七周下跌；市场关注的焦点包括英伟达去年改按客户总部所在地统计地区收入的做法，以及为客户融资购芯提供的巨额担保。
 
+**来源**：[Reuters](https://live.euronext.com/en/financial-news/exclusive-nvidias-accounting-focus-us-sec-investigation-sources-say)
+
