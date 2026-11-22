@@ -24,3 +24,7 @@ OpenAI 于 11 月 20 日公开其对抗“对抗性蒸馏”的防御体系，�
 
 Signal 总裁 Meredith Whittaker 表示，系统级 AI 智能体通过扫描屏幕获取信息，会把本应私密的聊天数据送入本地或远程数据库，破坏其隐私承诺；她同时承认这一补救并不完整，也无法覆盖 macOS，并呼吁操作系统厂商提供统一的应用级退出机制。
 
+**来源**：[Signal](https://signal.org/blog/protecting-your-privacy/)
+
+## 4. 路透：SEC 正审查英伟达会计问题，股价单日跌 14%
+
