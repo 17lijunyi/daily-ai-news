@@ -10,3 +10,5 @@ Anthropic 数学家 Levent Alpöge 于 11 月 20 日发文称，他与 Claude �
 
 **来源**：[phys.org](https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html)
 
+## 2. OpenAI 公布对抗性蒸馏防御，GPT-6.2 Astra 推理提取成功率降至 0.2%
+
