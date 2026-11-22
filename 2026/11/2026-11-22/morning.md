@@ -42,3 +42,5 @@ Anthropic 股票 11 月 20 日收跌 8.5% 至 88.91 美元，盘中一度跌至 
 
 **来源**：[Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11202026-12266027)
 
+## 6. Thinking Machines 发布开源权重模型 Inkling 2 Mini，26.4B 参数可跑笔记本
+
