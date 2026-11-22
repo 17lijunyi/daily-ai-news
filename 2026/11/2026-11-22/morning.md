@@ -18,3 +18,5 @@ OpenAI 于 11 月 20 日公开其对抗“对抗性蒸馏”的防御体系，�
 
 **来源**：[OpenAI](https://openai.com/index/combatting-adversarial-distillation/)
 
+## 3. Signal 默认拦截截图，阻止系统级 AI 智能体读取加密聊天
+
