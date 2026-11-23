@@ -8,3 +8,7 @@
 
 OpenRouter 于 11 月 22 日回应称，已将三家服务商下架，并取消 125 个端点的零数据留存资格，同时通知可能受影响的客户；公司强调自身系统未被攻破，但被下架的服务商身份未公开，Phala、Together AI 与 Novita 各自发布了事件说明。
 
+**来源**：[The Hacker News](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
+
+## 2. OpenAI 首席科学家提议以困惑度作为行业共同安全基准
+
