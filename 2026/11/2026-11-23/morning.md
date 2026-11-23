@@ -40,3 +40,5 @@ Pachocki 首次公开了 OpenAI 内部模型的困惑度曲线：GPT-3.5 约为 
 
 与此同时，两款模型在“承认不确定性”这一特质上的相对排名大幅下滑，Astra 从 96 降至 24，Sol 从 98 降至 51，透明度综合指数也低于 Anthropic 的 Claude 系列；评测方强调，这些分数衡量的是沟通风格而非答案正确性，且以 900 道英文测试题、无系统提示词的方式由 AI 评委打分得出。
 
+**来源**：[The Decoder](https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/)
+
