@@ -16,3 +16,7 @@ OpenAI 首席科学家 Jakub Pachocki 于 11 月 22 日发文提议，前沿 AI 
 
 Pachocki 首次公开了 OpenAI 内部模型的困惑度曲线：GPT-3.5 约为 0.99，GPT-4 约为 0.91，近期模型已低于 0.8，并在约 0.76 附近出现数学等领域的突破性能力；他预计当数值进入约 0.68 至 0.7 区间时还会出现新的变革性能力，而 AI 对自身训练的加速最早可能在 2027 年到来。CEO Sam Altman 公开支持这一提议，称其为 OpenAI 近期发布的最重要内容之一。
 
+**来源**：[Reuters](https://www.reuters.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-2026-11-22/)
+
+## 3. 路透：Anthropic 要求 IPO 承销银行限制团队规模并签署竞业限制
+
