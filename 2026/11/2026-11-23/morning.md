@@ -32,3 +32,7 @@ Pachocki 首次公开了 OpenAI 内部模型的困惑度曲线：GPT-3.5 约为 
 
 新版本还引入名为 Tesla Reality View 的实时可视化界面，可呈现车辆的行驶意图并支持点按干预，同时改进了对标志、动物、坑洼、积水与测速摄像头的识别；首批推送面向早期体验用户，特斯拉称广泛推送将随 12 月的假日更新到来。
 
+**来源**：[Electrek](https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/)
+
+## 5. 评测：GPT-6.2 Astra 与 Sol 回答更简短直接，但承认不确定性的评分大跌
+
