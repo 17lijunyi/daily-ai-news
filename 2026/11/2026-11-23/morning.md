@@ -24,3 +24,7 @@ Pachocki 首次公开了 OpenAI 内部模型的困惑度曲线：GPT-3.5 约为 
 
 报道指出，Anthropic 与 SpaceX 一样凭借 AI 热潮带来的巨大认购需求，在上市条款上掌握了罕见的主动权，甚至与承销商谈判免除了超额配售部分的承销费；Anthropic、高盛与摩根士丹利均拒绝置评，而 Anthropic 股价在上市次日下跌 8.5%，纳斯达克同期抹去了 2026 年以来的全部涨幅。
 
+**来源**：[Reuters](https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/)
+
+## 4. 特斯拉开始推送 FSD v15，称关键干预率提升 25 倍
+
