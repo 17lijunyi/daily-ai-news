@@ -16,3 +16,5 @@ Anthropic 于 11 月 23 日发布 Claude Ship（测试版），由 Code Review�
 
 Anthropic 建议先以仅观察模式运行审批功能，并向符合条件的企业客户提供至少 1 万美元的 Claude Ship 额度，需在 2027 年 1 月 15 日前领取；零数据留存、HIPAA 配置或客户自管加密密钥的组织暂不可用。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
+
