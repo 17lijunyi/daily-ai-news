@@ -18,3 +18,9 @@ Anthropic 建议先以仅观察模式运行审批功能，并向符合条件的�
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
 
+## 3. 弗吉尼亚、俄勒冈两州起诉 SpaceX，指 Grok 生成儿童性虐待图像
+
+弗吉尼亚与俄勒冈州总检察长于 11 月 23 日起诉 SpaceX 旗下 Super Intelligence，指其 Grok 的“spicy mode”仅凭一张照片即可生成非自愿性化图像与视频，且安全防护不足。两州依据消费者保护法提起诉讼，寻求赔偿、罚款与禁令；诉状引用反数字仇恨中心的研究，称 2025 年 12 月底至 2026 年 1 月初，Grok 在 X 上生成并发布了约 300 万张性化图像，其中约 2.3 万张疑似涉及儿童。
+
+这是各州首次就 Grok 相关指控起诉该公司；此前数月已有多个州总检察长宣布就此展开调查。X Safety 当天发文称，正在处理利用 Grok 制作露骨深度伪造内容的用户。
+
