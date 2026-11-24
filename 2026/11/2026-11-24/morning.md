@@ -10,3 +10,9 @@
 
 **来源**：[USA TODAY](https://www.usatoday.com/story/tech/2026/11/23/jensen-huang-ai-industry-support-safety-experts-concern/92931115007/)
 
+## 2. Anthropic 发布 Claude Ship，AI 智能体可审查、修复并批准代码
+
+Anthropic 于 11 月 23 日发布 Claude Ship（测试版），由 Code Review、PR Steward 与 Claude Approvals 三个智能体组成，可审查拉取请求、修复问题，并按团队设定的规则决定哪些改动可以合并。开发者可在 Claude Code 中用 /ship 命令一键提交、发起拉取请求并触发自动审查与修复；该功能面向 GitHub 上的 Claude Team 与 Enterprise 计划，按 token 计费。
+
+Anthropic 建议先以仅观察模式运行审批功能，并向符合条件的企业客户提供至少 1 万美元的 Claude Ship 额度，需在 2027 年 1 月 15 日前领取；零数据留存、HIPAA 配置或客户自管加密密钥的组织暂不可用。
+
