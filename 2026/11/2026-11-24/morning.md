@@ -48,3 +48,5 @@ OpenAI 于 11 月 23 日开放 ChatGPT for Academic Researchers 新一轮申请�
 
 申请面向高校教研人员与博士后（中国内地与香港除外），须验证身份与学术资格，并提供近三年内发表于 arXiv、bioRxiv 或 ChemRxiv 上的论文；API 额度与专用模型不在名额范围内。
 
+**来源**：[OpenAI](https://openai.com/index/expanding-chatgpt-for-academic-researchers/)
+
