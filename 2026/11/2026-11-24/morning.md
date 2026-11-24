@@ -42,3 +42,9 @@ Anthropic 建议先以仅观察模式运行审批功能，并向符合条件的�
 
 **来源**：[FinanceFeeds](https://financefeeds.com/anthropic-stock-bond-funds-expect-bb-rating-on-900-billion-commitments/)
 
+## 6. OpenAI 开放 5 万份免费 ChatGPT 学术名额，先到先得
+
+OpenAI 于 11 月 23 日开放 ChatGPT for Academic Researchers 新一轮申请，提供 5 万份免费名额，不再抽签，符合条件者先到先得。每份名额覆盖申请人本人及最多两名合作者，免费使用 ChatGPT Plus（12 个月），本轮最多可惠及 15 万名研究者；项目整体目标是覆盖 20 万名研究者。
+
+申请面向高校教研人员与博士后（中国内地与香港除外），须验证身份与学术资格，并提供近三年内发表于 arXiv、bioRxiv 或 ChemRxiv 上的论文；API 额度与专用模型不在名额范围内。
+
