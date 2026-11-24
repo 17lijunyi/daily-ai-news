@@ -28,3 +28,9 @@ Anthropic 建议先以仅观察模式运行审批功能，并向符合条件的�
 
 ## 4. 谷歌搜索 AI Mode 接入 Wallet、Drive 与 Gemini 应用
 
+谷歌于 11 月 23 日宣布，搜索 AI Mode 的 Personal Intelligence 开始支持连接 Google Wallet，Drive 与 Gemini 应用的接入将在未来几周内上线，用户可自主选择是否连接。接入 Wallet 后，AI Mode 可根据消费记录帮助梳理财务目标、节省日常开支并优化信用卡权益，但只能读取账户信息，不能转移、管理或投资资金；接入 Drive 后可结合文档、表格与 PDF 给出更贴合个人情况的回答。
+
+谷歌还表示，AI Mode 与 Gemini 应用之间将可共享上下文，AI 概览与 AI Mode 的回答也会更具个人相关性，回答下方将新增“个性化”图标以查看所用上下文；此前 Personal Intelligence 已支持 Gmail、日历与照片。
+
+**来源**：[Google Blog](https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/)
+
