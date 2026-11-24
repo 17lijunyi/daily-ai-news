@@ -24,3 +24,7 @@ Anthropic 建议先以仅观察模式运行审批功能，并向符合条件的�
 
 这是各州首次就 Grok 相关指控起诉该公司；此前数月已有多个州总检察长宣布就此展开调查。X Safety 当天发文称，正在处理利用 Grok 制作露骨深度伪造内容的用户。
 
+**来源**：[Reuters](https://www.reuters.com/legal/government/virginia-oregon-sue-musks-spacex-over-grok-ais-creation-child-sexual-abuse-2026-11-23/)
+
+## 4. 谷歌搜索 AI Mode 接入 Wallet、Drive 与 Gemini 应用
+
