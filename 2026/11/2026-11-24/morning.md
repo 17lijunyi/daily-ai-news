@@ -34,3 +34,5 @@ Anthropic 建议先以仅观察模式运行审批功能，并向符合条件的�
 
 **来源**：[Google Blog](https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/)
 
+## 5. 曝 Anthropic 约 9000 亿美元算力支出承诺，债市预期垃圾级评级
+
