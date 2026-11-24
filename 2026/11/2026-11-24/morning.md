@@ -4,3 +4,9 @@
 
 ## 1. 黄仁勋复任英伟达 CEO，股价大涨但安全争议未消
 
+英伟达员工 11 月 23 日以掌声欢迎复任 CEO 的黄仁勋；他于 11 月 12 日因多起婚外情指控辞职，期间由首席财务官 Colette Kress 暂代 CEO。消息传出后英伟达股价上涨约 40%，OpenAI CEO Sam Altman、SpaceX CEO Elon Musk 等公开表示支持；但部分国会议员与 AI 安全专家质疑复任过程，担忧其涉华关系与芯片出口管制问题。
+
+英伟达董事会表示将继续对涉事新加坡数据中心高管 Alice Huang 的第三方调查，黄仁勋仍定于 12 月 1 日赴国会作证；特朗普则称自己促成了这次复任，董事会声明中也提到收到了“美国政府高层”的意见。
+
+**来源**：[USA TODAY](https://www.usatoday.com/story/tech/2026/11/23/jensen-huang-ai-industry-support-safety-experts-concern/92931115007/)
+
