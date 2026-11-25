@@ -34,3 +34,11 @@ Axios 于 11 月 24 日报道，采访了 20 多名 OpenAI 与 Anthropic 的内�
 
 **来源**：[Gizmodo](https://gizmodo.com/openai-and-anthropic-employees-are-reportedly-clashing-with-company-leaders-over-ai-safety-2000844953)
 
+## 5. DeepMind 智能体团队用 Lean 4 形式化验证找到更快量子算法
+
+谷歌 DeepMind 与谷歌量子 AI 于 11 月 23 日发文介绍，多个 Gemini 4 智能体团队在 Lean 4 定理证明器中设计并验证了新的量子算法，所有结果均附带机器可核查的正确性与成本证明。团队为聚变模拟把计算成本降低约 11.8 倍，所需纠错量子比特从 5650 个降至 4338 个；一个常用的 arcsin 量子算术例程提速约 290 倍，Grover 搜索的特定实现提速约 2.57 倍。
+
+研究还覆盖光化学与药物代谢酶模拟，成本分别降低约 8 倍与 2.5 倍。DeepMind 已将自研的 Lean 量子算法库、问题描述与已验证解法开源，称形式化验证可为规模超出经典计算机模拟能力的量子程序提供可信度保证。
+
+**来源**：[Google DeepMind](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
+
