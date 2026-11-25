@@ -10,3 +10,11 @@ OpenAI 于 11 月 23 日开始向全球 ChatGPT Plus、Pro、Business 与 Enterp
 
 **来源**：[Digital Trends](https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/)
 
+## 2. OpenAI 与思科开源 Shirudo，让 AI 智能体为运行中的 Linux 系统打上临时“盾牌”
+
+OpenAI 与思科于 11 月 23 日联合发布开源项目 Shirudo（日语“盾”），用 eBPF 技术让 AI 智能体为正在运行的 Linux 系统编写临时防护“盾牌”，在不重启、不打补丁的情况下拦截已知漏洞的利用。演示中，由 Codex 生成的防护成功拦下了针对运行中 Elasticsearch 实例的 Java4Shell 攻击，且未中断服务。
+
+Shirudo 由思科旗下 Isovalent 团队基于其 Tetragon 平台重写，防护均经加密签名并由 TPM 提供可验证的加载记录；项目采用 BSD 2-Clause 开源协议，代码已发布在 GitHub 上，但目前仍处于预发布阶段、尚未达到生产可用状态。
+
+**来源**：[CybersecurityDive](https://www.cybersecuritydive.com/news/ai-vulnerability-openai-cisco-shirudo-linux/875644/)
+
