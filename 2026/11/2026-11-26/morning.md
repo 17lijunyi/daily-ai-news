@@ -12,3 +12,7 @@
 
 ## 2. Anthropic 用 Claude 智能体把 Messages API 从 Python 迁到 Rust，CPU 占用降约 70%
 
+Anthropic 发文介绍，用 Claude 智能体把 Messages API 从 Python 迁移到了 Rust。该 API 是客户以及 Claude Code、Cowork 等自家应用访问 Claude 的主要入口，2024 年初至 2026 年秋流量增长约 1800 倍。Claude 约一周就写出了核心请求路径的初版，但真正的难点是验证：生产版 API 在迁移期间仍在不断变化，测试既不完整、又与 Python 实现耦合。
+
+团队把生产版 API 本身当作验证器，在真实流量上逐段比对两个版本、自动派智能体修复差异，全程不读取用户请求内容以保护隐私。最终新版 API 每请求 CPU 占用降低约 70%，首个 token 的中位等待时间缩短约 20%，且迁移全程没有停机、功能开发也未冻结。
+
