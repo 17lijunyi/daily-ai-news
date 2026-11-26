@@ -42,3 +42,5 @@ OpenAI 已开始向少数 Pro 订阅用户推出 ChatGPT 聊天（Chat）与工�
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 
+## 6. OpenAI：GPT-6.2 仅凭推理与代码设计蛋白质，实验室验证 5 个靶点均有结合
+
