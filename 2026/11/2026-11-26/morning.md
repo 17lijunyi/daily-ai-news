@@ -34,3 +34,5 @@ Muse 是 Meta 迄今最成功的消费级 AI 产品，在美国和加拿大用�
 
 **来源**：[TechCrunch](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
 
+## 5. OpenAI 合并 ChatGPT 聊天与 Work 的使用额度，重度用户可能更快触顶
+
