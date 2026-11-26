@@ -24,3 +24,7 @@ Anthropic 发文介绍，用 Claude 智能体把 Messages API 从 Python 迁移�
 
 Muse 是 Meta 迄今最成功的消费级 AI 产品，在美国和加拿大用户已超 1000 万。Forter 的数据显示，Muse 近期占 AI 智能体购物订单的 51%，其次是 SpaceX 的 Grok（24%）与 OpenAI 的 ChatGPT（22%）。
 
+**来源**：[The Decoder](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/)
+
+## 4. 纽约州签署法案：禁售 AI 聊天机器人玩具五年，违规每天最高罚 1.5 万美元
+
