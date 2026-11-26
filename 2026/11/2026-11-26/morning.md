@@ -16,3 +16,5 @@ Anthropic 发文介绍，用 Claude 智能体把 Messages API 从 Python 迁移�
 
 团队把生产版 API 本身当作验证器，在真实流量上逐段比对两个版本、自动派智能体修复差异，全程不读取用户请求内容以保护隐私。最终新版 API 每请求 CPU 占用降低约 70%，首个 token 的中位等待时间缩短约 20%，且迁移全程没有停机、功能开发也未冻结。
 
+**来源**：[Anthropic](https://www.anthropic.com/research/migrating-api-to-rust)
+
