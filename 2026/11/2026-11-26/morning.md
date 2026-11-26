@@ -10,3 +10,5 @@
 
 **来源**：[Reuters](https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/)
 
+## 2. Anthropic 用 Claude 智能体把 Messages API 从 Python 迁到 Rust，CPU 占用降约 70%
+
