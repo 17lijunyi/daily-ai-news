@@ -18,3 +18,5 @@ Anthropic 发文介绍，用 Claude 智能体把 Messages API 从 Python 迁移�
 
 **来源**：[Anthropic](https://www.anthropic.com/research/migrating-api-to-rust)
 
+## 3. 亚马逊与 Meta 谈判，或解封购物智能体 Muse 对亚马逊商城的访问
+
