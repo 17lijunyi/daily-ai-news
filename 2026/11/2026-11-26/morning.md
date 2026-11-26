@@ -32,3 +32,5 @@ Muse 是 Meta 迄今最成功的消费级 AI 产品，在美国和加拿大用�
 
 此次立法的背景是消费者监督机构的测试发现，部分面向 3 至 12 岁儿童的聊天玩具会谈论性话题、告诉孩子危险物品在家中的位置。纽约成为继加州之后第二个出台此类禁令的州，州长同时提醒家长在假期购物季谨慎购买这类玩具。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
+
