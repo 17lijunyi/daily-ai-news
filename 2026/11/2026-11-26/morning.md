@@ -48,3 +48,5 @@ OpenAI 于 11 月 24 日发文称，GPT-6 系列模型仅凭推理与通用代�
 
 OpenAI 同时承认，氨基酸序列的生成与候选筛选仍借助了专门模型，尚未证明完全不依赖专门工具的端到端从头设计；相关预印本也未经同行评审与独立实验室复现。研究还显示，模型在已有结构基础上的序列重设计表现更好，部分靶点的结合保留率达 85%。
 
+**来源**：[OpenAI](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
+
