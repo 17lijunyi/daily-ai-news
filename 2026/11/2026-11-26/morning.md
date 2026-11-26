@@ -40,3 +40,5 @@ OpenAI 已开始向少数 Pro 订阅用户推出 ChatGPT 聊天（Chat）与工�
 
 此举引发部分订阅用户担忧，认为合并后高级推理模型的使用量会减少，而订阅费不变。OpenAI 表示将继续提升效率，让订阅用户从套餐中获得更多。Anthropic 也在 9 月把对话服务 Claude 与工作服务 Cowork 合并到了同一界面之下。
 
+**来源**：[TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
+
