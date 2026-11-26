@@ -8,3 +8,5 @@
 
 尽管亚马逊、Viasat 和美国天文学会以轨道碎片、射频干扰和夜空观测影响为由提出反对，FCC 仍予以批准，但未批准高轨道卫星报废处理方案。SpaceX 称首颗卫星预计 2027 年第三季度发射，卫星将搭载英伟达 Rubin GPU 与 Vera CPU。
 
+**来源**：[Reuters](https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/)
+
