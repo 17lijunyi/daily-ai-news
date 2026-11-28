@@ -32,3 +32,5 @@ OpenAI 于 11 月 27 日在加州圣何塞联邦法院对苹果提起反诉，�
 
 **来源**：[The Decoder](https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/)
 
+## 6. DeepL 推出 Aure v2：语音翻译延迟减半，首发支持六种语言
+
