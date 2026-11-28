@@ -26,3 +26,5 @@ OpenAI 于 11 月 27 日在加州圣何塞联邦法院对苹果提起反诉，�
 
 **来源**：[BACS](https://www.bacs.admin.ch/en/26-ki-agenten-1-en)
 
+## 5. 彭博：SAP 拟在 AI 转型中裁员至少 1 万人，约占全球员工 9%
+
