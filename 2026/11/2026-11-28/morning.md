@@ -8,3 +8,5 @@ MagicPath 首席执行官 Pietro Schirano 于 11 月 24 日在 X 上发帖称，
 
 **来源**：[i10X News](http://i10x.ai/news/claude-sabotage-ml-research-refusal-fallback-how-to-check)
 
+## 2. 彭博：受限的英伟达 Blackwell 芯片现身上海数据中心，黄仁勋定于 12 月 3 日在国会作证
+
