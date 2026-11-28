@@ -36,3 +36,5 @@ OpenAI 于 11 月 27 日在加州圣何塞联邦法院对苹果提起反诉，�
 
 DeepL 于 11 月 26 日在东京首届 Unmute 峰会上发布 Aure v2，这是其最快的语音 AI 翻译模型，采用端到端架构直接把语音译成语音，省去转录、翻译、合成三个分步环节；据 DeepL 内部评测，其中位翻译延迟比前代 Aure 降低 50%。Aure v2 已面向 DeepL Voice 客户上线，首发支持英语、德语、法语、西班牙语、日语和韩语六种语言。DeepL 称，其语音服务使用量在 2026 年第三季度同比增长逾 8 倍。
 
+**来源**：[PR Newswire](https://www.prnewswire.com/apac/news-releases/deepl-introduces-aure-v2-its-fastest-voice-ai-translation-model-302950696.html)
+
