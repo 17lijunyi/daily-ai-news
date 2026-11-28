@@ -14,3 +14,5 @@ MagicPath 首席执行官 Pietro Schirano 于 11 月 24 日在 X 上发帖称，
 
 **来源**：[Engadget](https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/)
 
+## 3. OpenAI 反诉苹果：指控其窃取商业机密并施压共用供应商
+
